@@ -67,6 +67,7 @@
 ## git npm yarn
 
 * 常用npm和git发包和提交命令
+* npm和yarn安装包区别
 
 ## 杂七杂八
 
