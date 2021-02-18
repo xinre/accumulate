@@ -2,7 +2,7 @@
 
 ## 面试积累
 
-* [http相关]()
+* [http相关](https://zhuanlan.zhihu.com/p/73409439)
 * [promise]()
 * [promise使用]()
 * [数组去重相关]()
@@ -17,16 +17,16 @@
 * [原型链和原型链继承]()
 * [防抖节流]()
 * [new操作符]()
-* [http 相关]()
-* [http 相关]()
-* [http 相关]()
-* [http 相关]()
-* [http 相关]()
-* [http 相关]()
-* [http 相关]()
-* [http 相关]()
-* [http 相关]()
-* [http 相关]()
+* [react-hook使用注意事项]()
+* [深浅拷贝]()
+[网络防攻击]
+[websoket]
+[事件循环]
+[浏览器相关]
+[cmd还有amd等区别]
+* [js事件和冒泡机制]
+[css相关]
+[typescript相关]
 
 ## 框架(包)
 
@@ -41,10 +41,13 @@
 * [next]()
 * [koa-proxy]()
 * [koa-csrf]()
+* [immutable]
 
 ## webpack 、rollup 等前端打包工具
 
-* [webpack打包]()
+[webpack打包]
+[webpack优化方面（所用插件）]
+[webpack自定义（loader||plugin）]
 
 ## 优质算法 && lee
 
@@ -53,6 +56,8 @@
 ## 其他语言
 
 ## 终端
+
+## git
 
 ## 杂七杂八
 
