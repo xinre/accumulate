@@ -64,7 +64,7 @@
 
 ## 终端
 
-## git||npm
+## git npm yarn
 
 * 常用npm和git发包和提交命令
 
