@@ -66,7 +66,7 @@
 
 ## git npm yarn
 
-* [常用npm和git发包和提交命令](https://github.com/xinre/accumulate/issues/2)
+* [常用npm和git发包和提交命令](https://github.com/xinre/accumulate/issues/3)
 * npm和yarn安装包区别
 
 ## 杂七杂八
