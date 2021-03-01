@@ -14,7 +14,7 @@
 * 图片懒加载(模块淡出)
 * es6+
 * 判断是否为数组
-* 原型链和原型链继承
+* [原型链和原型链继承](https://github.com/xinre/accumulate/issues/1)
 * 防抖节流
 * new操作符
 * react-hook使用注意事项
@@ -66,10 +66,11 @@
 
 ## git npm yarn
 
-* 常用npm和git发包和提交命令
+* [常用npm和git发包和提交命令](https://github.com/xinre/accumulate/issues/2)
 * npm和yarn安装包区别
 
 ## 杂七杂八
+* [WebAssembly](https://www.w3ctech.com/topic/2027)
 
 ## 未来
 
