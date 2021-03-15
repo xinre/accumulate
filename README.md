@@ -68,7 +68,8 @@
 * [Vue3 尝鲜](https://juejin.cn/post/6844904039612678152)
 * [vue3 学习 之 vue3使用](https://juejin.cn/post/6896438269291347976)
 * [Vite 原理分析](https://juejin.cn/post/6902225969604460558)
-* [迁移到 antd@4](https://zhuanlan.zhihu.com/p/109067115 )
+* [迁移到 antd@4](https://zhuanlan.zhihu.com/p/109067115)
+* [npm 和 npx 区别](https://www.zhihu.com/question/327989736/answer/787995048)
 
 
 ## 数据库
