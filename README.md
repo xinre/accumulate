@@ -70,6 +70,9 @@
 * [Vite 原理分析](https://juejin.cn/post/6902225969604460558)
 * [迁移到 antd@4](https://zhuanlan.zhihu.com/p/109067115)
 * [npm 和 npx 区别](https://www.zhihu.com/question/327989736/answer/787995048)
+* [http3 相关](https://zhuanlan.zhihu.com/p/281898715)
+* [最简化 VUE的响应式原理](https://zhuanlan.zhihu.com/p/88648401)
+* [详解Vue响应式原理](https://www.cnblogs.com/fundebug/p/responsive-vue.html)
 
 
 ## 数据库
