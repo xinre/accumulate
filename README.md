@@ -77,6 +77,10 @@
 * [electron-react模板](https://github.com/ConardLi/electron-react)
 * [electrom 模板](https://github.com/bosscheng/electron-app-template)
 * [electrom 模板 faceBook](https://github.com/electron-react-boilerplateelectron-react-boilerplate)
+* [WebAssembly](https://www.w3ctech.com/topic/2027)
+* [代码规范](https://juejin.cn/post/6844904136014561294)
+* [eslint react配置主要是下边的参考链接](https://juejin.cn/post/6844903941503729678)
+
 
 
 ## 数据库
@@ -93,7 +97,8 @@
 * npm和yarn安装包区别
 
 ## 杂七杂八
-* [WebAssembly](https://www.w3ctech.com/topic/2027)
+* [打不开github问题](https://blog.csdn.net/yuxikuo_1/article/details/107302871)
+
 
 ## 未来
 
