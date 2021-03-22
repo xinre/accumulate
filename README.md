@@ -27,6 +27,7 @@
 * js事件和冒泡机制
 * css相关
 * typescript相关
+* 算法
 
 ## 框架(包)
 
@@ -73,6 +74,9 @@
 * [http3 相关](https://zhuanlan.zhihu.com/p/281898715)
 * [最简化 VUE的响应式原理](https://zhuanlan.zhihu.com/p/88648401)
 * [详解Vue响应式原理](https://www.cnblogs.com/fundebug/p/responsive-vue.html)
+* [electron-react模板](https://github.com/ConardLi/electron-react)
+* [electrom 模板](https://github.com/bosscheng/electron-app-template)
+* [electrom 模板 faceBook](https://github.com/electron-react-boilerplateelectron-react-boilerplate)
 
 
 ## 数据库
