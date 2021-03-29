@@ -77,6 +77,9 @@
 * [electron-react模板](https://github.com/ConardLi/electron-react)
 * [electrom 模板](https://github.com/bosscheng/electron-app-template)
 * [electrom 模板 faceBook](https://github.com/electron-react-boilerplateelectron-react-boilerplate)
+* [阿里服务端渲染](https://umijs.org/zh-CN/docs/ssr)
+* [组件文档编写](https://d.umijs.org/zh-CN/guide)
+* [一个人写的服务端渲染原理](https://segmentfault.com/a/1190000020417285)
 
 
 ## 数据库
