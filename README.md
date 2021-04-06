@@ -77,12 +77,16 @@
 * [electron-react模板](https://github.com/ConardLi/electron-react)
 * [electrom 模板](https://github.com/bosscheng/electron-app-template)
 * [electrom 模板 faceBook](https://github.com/electron-react-boilerplateelectron-react-boilerplate)
+* [阿里服务端渲染](https://umijs.org/zh-CN/docs/ssr)
+* [组件文档编写](https://d.umijs.org/zh-CN/guide)
+* [一个人写的服务端渲染原理](https://segmentfault.com/a/1190000020417285)
 * [WebAssembly](https://www.w3ctech.com/topic/2027)
 * [代码规范](https://juejin.cn/post/6844904136014561294)
 * [eslint react配置主要是下边的参考链接](https://juejin.cn/post/6844903941503729678)
 * [ts泛型](https://cloud.tencent.com/developer/article/1668256)
-
-
+* [position:fixed时水平滚动](https://www.sypopo.com/post/qbQl94DxrZ/)
+* [web性能](https://developer.mozilla.org/zh-CN/docs/Web/Performance)
+* [浏览器回流和重绘](https://www.cnblogs.com/xiahj/p/11777786.html)
 
 ## 数据库
 
