@@ -80,6 +80,7 @@
 * [WebAssembly](https://www.w3ctech.com/topic/2027)
 * [代码规范](https://juejin.cn/post/6844904136014561294)
 * [eslint react配置主要是下边的参考链接](https://juejin.cn/post/6844903941503729678)
+* [ts泛型](https://cloud.tencent.com/developer/article/1668256)
 
 
 
