@@ -61,6 +61,10 @@
 * node事件循环
 
 ## 服务器端
+* [k8s 命令](https://www.orchome.com/617)
+* [linux 命令](https://www.runoob.com/linux/linux-command-manual.html)
+* [docker](https://www.runoob.com/docker/docker-container-usage.html)
+* [docker 命令](https://www.runoob.com/docker/docker-command-manual.html)
 
 ## 前端知识
 * [React 全局状态管理器横向对比](https://www.tangshuang.net/7862.html)
@@ -75,8 +79,8 @@
 * [最简化 VUE的响应式原理](https://zhuanlan.zhihu.com/p/88648401)
 * [详解Vue响应式原理](https://www.cnblogs.com/fundebug/p/responsive-vue.html)
 * [electron-react模板](https://github.com/ConardLi/electron-react)
-* [electrom 模板](https://github.com/bosscheng/electron-app-template)
-* [electrom 模板 faceBook](https://github.com/electron-react-boilerplateelectron-react-boilerplate)
+* [electron 模板](https://github.com/bosscheng/electron-app-template)
+* [electron 模板 faceBook](https://github.com/electron-react-boilerplateelectron-react-boilerplate)
 * [阿里服务端渲染](https://umijs.org/zh-CN/docs/ssr)
 * [组件文档编写](https://d.umijs.org/zh-CN/guide)
 * [一个人写的服务端渲染原理](https://segmentfault.com/a/1190000020417285)
@@ -91,6 +95,7 @@
 
 ## 其他语言
 * [go 教程](http://www.topgoer.com/)
+* [go chassis huawei](https://github.com/go-chassis/go-chassis)
 * 线程 进程 协程 go 中的多线程操作知识
 
 ## 终端
