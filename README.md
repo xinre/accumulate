@@ -91,6 +91,12 @@
 * [position:fixed时水平滚动](https://www.sypopo.com/post/qbQl94DxrZ/)
 * [web性能](https://developer.mozilla.org/zh-CN/docs/Web/Performance)
 * [浏览器回流和重绘](https://www.cnblogs.com/xiahj/p/11777786.html)
+* [electron进程](https://juejin.cn/post/6844903969714601992)
+* [electron/remote模块](https://imweb.io/topic/5b3b72ab4d378e703a4f4435)
+* [electron进程通信](https://imweb.io/topic/5b13a663d4c96b9b1b4c4e9c)
+* [electron打包](https://imweb.io/topic/5b6817b5f6734fdf12b4b09c)
+* [electron打包优化](https://imweb.io/topic/5b9f500cc2ec8e6772f34d79)
+* [electron错误捕获](https://github.com/xinre/accumulate/issues/4)
 
 ## 数据库
 
