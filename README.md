@@ -98,6 +98,7 @@
 * [electron打包优化](https://imweb.io/topic/5b9f500cc2ec8e6772f34d79)
 * [electron错误捕获](https://github.com/xinre/accumulate/issues/4)
 * [react-hook原理](https://github.com/brickspert/blog/issues/26)
+* [useSelector 跟以前的redux connect取值有什么区别？]
 
 ## 数据库
 
