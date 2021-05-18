@@ -103,6 +103,9 @@
 * [electron优化体验](https://juejin.cn/post/6844904029231775758)
 * [vue3和react-hooks](https://mp.weixin.qq.com/s/_AKjxHYRzplh5CmUXmmL8g)
 * [js 引擎和eventloop](https://zhuanlan.zhihu.com/p/371786505)
+* [rxjs 30天精通](https://ithelp.ithome.com.tw/articles/10189028)
+* [rxjs 简单使用](https://segmentfault.com/a/1190000012252368)
+* [RxJS 详解](https://cloud.tencent.com/developer/article/1004937)
 * [useSelector 跟以前的redux connect取值有什么区别？]
 
 ## 数据库
