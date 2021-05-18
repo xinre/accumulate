@@ -3,7 +3,7 @@
 ## 面试积累
 
 * [http相关](https://zhuanlan.zhihu.com/p/73409439)
-* [promise]()
+* [promise](https://github.com/xinre/my-primise)
 * promise使用
 * 数组去重相关
 * 排序相关
