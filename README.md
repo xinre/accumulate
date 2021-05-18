@@ -3,7 +3,7 @@
 ## 面试积累
 
 * [http相关](https://zhuanlan.zhihu.com/p/73409439)
-* promise
+* [promise]()
 * promise使用
 * 数组去重相关
 * 排序相关
@@ -31,7 +31,7 @@
 
 ## 框架(包)
 
-* Using or snooping principles express->koa
+* [Using or snooping principles express->koa](https://github.com/xinre/primary-optimize-express)
 * Using or snooping principles koa-router(包括express中的router)
 * [Using or snooping principles redux](https://github.com/xinre/redux-my)
 * [Using or snooping principles react-redux](https://github.com/xinre/react-redux-my)
@@ -100,6 +100,7 @@
 * [react-hook原理](https://github.com/brickspert/blog/issues/26)
 * [reactFiber](https://juejin.cn/post/6844903975112671239)
 * [electron集合](https://juejin.cn/post/6903159782299926542)
+* [electron优化体验](https://juejin.cn/post/6844904029231775758)
 * [vue3和react-hooks](https://mp.weixin.qq.com/s/_AKjxHYRzplh5CmUXmmL8g)
 * [useSelector 跟以前的redux connect取值有什么区别？]
 
