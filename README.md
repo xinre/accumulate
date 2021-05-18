@@ -102,6 +102,7 @@
 * [electron集合](https://juejin.cn/post/6903159782299926542)
 * [electron优化体验](https://juejin.cn/post/6844904029231775758)
 * [vue3和react-hooks](https://mp.weixin.qq.com/s/_AKjxHYRzplh5CmUXmmL8g)
+* [js 引擎和eventloop](https://zhuanlan.zhihu.com/p/371786505)
 * [useSelector 跟以前的redux connect取值有什么区别？]
 
 ## 数据库
@@ -126,10 +127,12 @@
 ## 未来
 
 ## 生活
+* [如何理清五代十国的历史？](https://www.zhihu.com/question/30046079/answer/121350040)
 
 ## 理财
 
 ## 好的书籍
+* [书单：马克思主义从入门到进阶](https://zhuanlan.zhihu.com/p/25888209)
 
 
 
