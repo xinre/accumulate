@@ -48,6 +48,10 @@
 * Using or snooping principles react-virtualized
 * Using or snooping principles nsplayer
 * Using or snooping principles require
+* [react-hook原理](https://github.com/brickspert/blog/issues/26)
+* [RxJS 详解](https://cloud.tencent.com/developer/article/1004937)
+* [最简化 VUE的响应式原理](https://zhuanlan.zhihu.com/p/88648401)
+* [详解Vue响应式原理](https://www.cnblogs.com/fundebug/p/responsive-vue.html)
 
 ## webpack 、rollup 等前端打包工具
 
@@ -76,8 +80,6 @@
 * [迁移到 antd@4](https://zhuanlan.zhihu.com/p/109067115)
 * [npm 和 npx 区别](https://www.zhihu.com/question/327989736/answer/787995048)
 * [http3 相关](https://zhuanlan.zhihu.com/p/281898715)
-* [最简化 VUE的响应式原理](https://zhuanlan.zhihu.com/p/88648401)
-* [详解Vue响应式原理](https://www.cnblogs.com/fundebug/p/responsive-vue.html)
 * [electron-react模板](https://github.com/ConardLi/electron-react)
 * [electron 模板](https://github.com/bosscheng/electron-app-template)
 * [electron 模板 faceBook](https://github.com/electron-react-boilerplateelectron-react-boilerplate)
@@ -97,7 +99,6 @@
 * [electron打包](https://imweb.io/topic/5b6817b5f6734fdf12b4b09c)
 * [electron打包优化](https://imweb.io/topic/5b9f500cc2ec8e6772f34d79)
 * [electron错误捕获](https://github.com/xinre/accumulate/issues/4)
-* [react-hook原理](https://github.com/brickspert/blog/issues/26)
 * [reactFiber](https://juejin.cn/post/6844903975112671239)
 * [electron集合](https://juejin.cn/post/6903159782299926542)
 * [electron优化体验](https://juejin.cn/post/6844904029231775758)
@@ -105,7 +106,8 @@
 * [js 引擎和eventloop](https://zhuanlan.zhihu.com/p/371786505)
 * [rxjs 30天精通](https://ithelp.ithome.com.tw/articles/10189028)
 * [rxjs 简单使用](https://segmentfault.com/a/1190000012252368)
-* [RxJS 详解](https://cloud.tencent.com/developer/article/1004937)
+* [淺顯易懂的 RxJS 教學](https://blog.techbridge.cc/2017/12/08/rxjs/)
+* [RxJS Observables vs Promise 之简单对比](https://juejin.cn/post/6844903849086418952)
 * [useSelector 跟以前的redux connect取值有什么区别？]
 
 ## 数据库
