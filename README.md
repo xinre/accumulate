@@ -130,7 +130,7 @@
 * [git出现SSL_ERROR_SYSCALL in connection to github.com:443](https://github.com/xinre/accumulate/issues/3)
 * [git出现SSL_ERROR_SYSCALL in connection to github.com:443](https://blog.csdn.net/qq_36530992/article/details/104442104)
 * [github.com:443](https://blog.csdn.net/btfireknight/article/details/104465263)
-* [pod install速度慢的终极解决方案](https://blog.csdn.net/u012265444/article/details/83212038)
+* [pod install速度慢的终极解决方案](https://www.cnblogs.com/jys509/p/12016226.html)
 
 
 ## 未来
