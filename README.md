@@ -131,6 +131,7 @@
 * [git出现SSL_ERROR_SYSCALL in connection to github.com:443](https://blog.csdn.net/qq_36530992/article/details/104442104)
 * [github.com:443](https://blog.csdn.net/btfireknight/article/details/104465263)
 * [pod install速度慢的终极解决方案](https://www.cnblogs.com/jys509/p/12016226.html)
+* [pod install源](https://segmentfault.com/a/1190000021395336)
 
 
 ## 未来
