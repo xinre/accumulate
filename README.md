@@ -128,7 +128,7 @@
 ## 杂七杂八
 * [打不开github问题](https://blog.csdn.net/yuxikuo_1/article/details/107302871)
 * [git出现SSL_ERROR_SYSCALL in connection to github.com:443](https://github.com/xinre/accumulate/issues/3)
-* [git出现SSL_ERROR_SYSCALL in connection to github.com:443](https://blog.csdn.net/btfireknight/article/details/104465263)
+* [git出现SSL_ERROR_SYSCALL in connection to github.com:443](https://blog.csdn.net/qq_36530992/article/details/104442104)
 
 
 ## 未来
