@@ -132,7 +132,7 @@
 * [github.com:443](https://blog.csdn.net/btfireknight/article/details/104465263)
 * [pod install速度慢的终极解决方案](https://www.cnblogs.com/jys509/p/12016226.html)
 * [pod install源](https://segmentfault.com/a/1190000021395336)
-
+* [Xcode找不到.h或者.m文件解决方法](https://blog.csdn.net/qq_23892379/article/details/81130378)
 
 ## 未来
 
