@@ -111,6 +111,15 @@
 * [React路由守卫的简单实现](https://blog.csdn.net/weixin_41564885/article/details/108469132)
 * [useSelector 跟以前的redux connect取值有什么区别？]
 
+## 原生开发
+* [pod install速度慢的终极解决方案](https://www.cnblogs.com/jys509/p/12016226.html)
+* [pod install源](https://segmentfault.com/a/1190000021395336)
+* [Xcode找不到.h或者.m文件解决方法](https://blog.csdn.net/qq_23892379/article/details/81130378)
+* [Android Studio 4.0+ 中新的 UI 层次结构调试工具](https://juejin.cn/post/6844904178360254472)
+* [android 多语言](https://blog.csdn.net/qq_40869894/article/details/83621323)
+* [android 版本升级](https://blog.csdn.net/u013278099/article/details/52692008)
+
+
 ## 数据库
 
 ## 其他语言
@@ -130,10 +139,6 @@
 * [git出现SSL_ERROR_SYSCALL in connection to github.com:443](https://github.com/xinre/accumulate/issues/3)
 * [git出现SSL_ERROR_SYSCALL in connection to github.com:443](https://blog.csdn.net/qq_36530992/article/details/104442104)
 * [github.com:443](https://blog.csdn.net/btfireknight/article/details/104465263)
-* [pod install速度慢的终极解决方案](https://www.cnblogs.com/jys509/p/12016226.html)
-* [pod install源](https://segmentfault.com/a/1190000021395336)
-* [Xcode找不到.h或者.m文件解决方法](https://blog.csdn.net/qq_23892379/article/details/81130378)
-* [Xcode使用](https://www.appcoda.com.tw/xcode-target/)
 
 ## 未来
 
