@@ -16,7 +16,7 @@
 * 判断是否为数组
 * [原型链和原型链继承](https://github.com/xinre/accumulate/issues/1)
 * 防抖节流
-* new操作符
+* [new操作符](https://github.com/xinre/FetchorExample/blob/master/example/new.js)
 * react-hook使用注意事项
 * 深浅拷贝
 * 网络防攻击
