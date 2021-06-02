@@ -118,6 +118,7 @@
 * [Android Studio 4.0+ 中新的 UI 层次结构调试工具](https://juejin.cn/post/6844904178360254472)
 * [android 多语言](https://blog.csdn.net/qq_40869894/article/details/83621323)
 * [android 版本升级](https://blog.csdn.net/u013278099/article/details/52692008)
+* [Android： okhttp3 异步请求中执行UI操作](https://my.oschina.net/letiantian/blog/794659)
 
 
 ## 数据库
