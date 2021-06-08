@@ -110,6 +110,7 @@
 * [RxJS Observables vs Promise 之简单对比](https://juejin.cn/post/6844903849086418952)
 * [React路由守卫的简单实现](https://blog.csdn.net/weixin_41564885/article/details/108469132)
 * [useSelector 跟以前的redux connect取值有什么区别？]
+* [前端音乐hooks](https://github.com/joshwcomeau/use-sound)
 
 ## 原生开发
 * [pod install速度慢的终极解决方案](https://www.cnblogs.com/jys509/p/12016226.html)
