@@ -122,6 +122,7 @@
 * [android 多语言](https://blog.csdn.net/qq_40869894/article/details/83621323)
 * [android 版本升级](https://blog.csdn.net/u013278099/article/details/52692008)
 * [Android： okhttp3 异步请求中执行UI操作](https://my.oschina.net/letiantian/blog/794659)
+* [Android 笔记 —— Toolbar 使用总结](https://www.jianshu.com/p/c4647b00ee61)
 
 
 ## 数据库
