@@ -123,6 +123,10 @@
 * [android 版本升级](https://blog.csdn.net/u013278099/article/details/52692008)
 * [Android： okhttp3 异步请求中执行UI操作](https://my.oschina.net/letiantian/blog/794659)
 * [Android 笔记 —— Toolbar 使用总结](https://www.jianshu.com/p/c4647b00ee61)
+* [android AndroidManifest.xml 文件都有什么作用]
+* [android 整个路由体系构建]
+* [android fragment、activity、application、manifest、uses-permission 等各种标签作用]
+* [android 是如何由xml文件对应到java文件的]
 
 
 ## 数据库
