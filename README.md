@@ -127,6 +127,7 @@
 * [android 整个路由体系构建]
 * [android fragment、activity、application、manifest、uses-permission 等各种标签作用]
 * [android 是如何由xml文件对应到java文件的]
+* [React Native 与 嵌入Android原生与Activity页面互相跳转](https://blog.csdn.net/csdn_aiyang/article/details/78397409)
 
 
 ## 数据库
