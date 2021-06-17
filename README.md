@@ -133,6 +133,7 @@
 * [新版React Native 混合开发(Android篇)](https://cloud.tencent.com/developer/article/1620051)
 * [react-native-项目根目录加入-babelrc-的正确方法-以及没有使用正确方法的挽救措施](https://trello.com/c/P1IWS3nJ/128-react-native-%E9%A1%B9%E7%9B%AE%E6%A0%B9%E7%9B%AE%E5%BD%95%E5%8A%A0%E5%85%A5-babelrc-%E7%9A%84%E6%AD%A3%E7%A1%AE%E6%96%B9%E6%B3%95-%E4%BB%A5%E5%8F%8A%E6%B2%A1%E6%9C%89%E4%BD%BF%E7%94%A8%E6%AD%A3%E7%A1%AE%E6%96%B9%E6%B3%95%E7%9A%84%E6%8C%BD%E6%95%91%E6%8E%AA%E6%96%BD)
 * [react-native 参数传递](https://blog.csdn.net/ZACH_ZHOU/article/details/71305139)
+* [ReactNative 与Android 原生传参数 ReadableMap WritableMap](https://danfeng.blog.csdn.net/article/details/83859935?utm_medium=distribute.pc_relevant.none-task-blog-2%7Edefault%7EBlogCommendFromMachineLearnPai2%7Edefault-1.control&depth_1-utm_source=distribute.pc_relevant.none-task-blog-2%7Edefault%7EBlogCommendFromMachineLearnPai2%7Edefault-1.control)
 
 
 ## 数据库
