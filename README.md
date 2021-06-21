@@ -135,6 +135,9 @@
 * [react-native 参数传递](https://blog.csdn.net/ZACH_ZHOU/article/details/71305139)
 * [ReactNative 与Android 原生传参数 ReadableMap WritableMap](https://danfeng.blog.csdn.net/article/details/83859935?utm_medium=distribute.pc_relevant.none-task-blog-2%7Edefault%7EBlogCommendFromMachineLearnPai2%7Edefault-1.control&depth_1-utm_source=distribute.pc_relevant.none-task-blog-2%7Edefault%7EBlogCommendFromMachineLearnPai2%7Edefault-1.control)
 * [java添加jar包的方法](https://blog.csdn.net/ZHW1551706847/article/details/77709142)
+* [android 开源应用demo](https://github.com/wasabeef/awesome-android-ui)
+* [android 开源应用demo](https://android-arsenal.com/)
+* [android 开源应用demo](https://fossdroid.com/)
 
 
 ## 数据库
