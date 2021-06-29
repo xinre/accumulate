@@ -139,6 +139,7 @@
 * [android 开源应用demo](https://android-arsenal.com/)
 * [android 开源应用demo](https://fossdroid.com/)
 * [android dom渲染知识点动态添加View](https://blog.csdn.net/qq_35605213/article/details/80514174)
+* [Android动态批量加载Drawable中的图片](https://cloud.tencent.com/developer/article/1507391)
 
 
 ## 数据库
