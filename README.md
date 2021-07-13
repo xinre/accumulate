@@ -142,6 +142,7 @@
 * [Android动态批量加载Drawable中的图片](https://cloud.tencent.com/developer/article/1507391)
 * [Android获取屏幕宽度报错找不到 getWindowManager 这个找了好久](https://stackoverflow.com/questions/8833825/error-getting-window-size-on-android-the-method-getwindowmanager-is-undefined)
 * [android studio 修改代码不生效](https://blog.csdn.net/onlySound/article/details/114435542)
+* [ios 和rn交互](https://juejin.cn/post/6844903620014505998)
 
 
 ## 数据库
