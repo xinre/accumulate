@@ -113,6 +113,7 @@
 * [前端音乐hooks](https://github.com/joshwcomeau/use-sound)
 * [Tree-Shaking性能优化实践](https://juejin.cn/post/6844903544756109319)
 * [Webpack 大法之 Code Splitting](https://zhuanlan.zhihu.com/p/26710831)
+* [rxjs 列表切换优化](https://blog.csdn.net/cumian8165/article/details/108107602)
 
 ## 原生开发
 * [pod install速度慢的终极解决方案](https://www.cnblogs.com/jys509/p/12016226.html)
