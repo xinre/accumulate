@@ -145,6 +145,9 @@
 * [android studio 修改代码不生效](https://blog.csdn.net/onlySound/article/details/114435542)
 * [ios 和rn交互](https://juejin.cn/post/6844903620014505998)
 * [ios 图片不显示](https://github.com/facebook/react-native/issues/31125)
+* [oc多继承方法](https://juejin.cn/post/6844903544659640333)
+* [ios与rn发送事件](https://guiyongdong.github.io/2017/04/01/ReactNative%E5%AE%9E%E7%8E%B0js%E5%92%8C%E5%8E%9F%E7%94%9F%E4%BA%A4%E4%BA%92/)
+* [ios与rn发送事件](https://www.jianshu.com/p/9ea9d82a386b)
 
 
 ## 数据库
