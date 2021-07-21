@@ -171,6 +171,7 @@
 * [git出现SSL_ERROR_SYSCALL in connection to github.com:443](https://github.com/xinre/accumulate/issues/3)
 * [git出现SSL_ERROR_SYSCALL in connection to github.com:443](https://blog.csdn.net/qq_36530992/article/details/104442104)
 * [github.com:443](https://blog.csdn.net/btfireknight/article/details/104465263)
+* [Mac OS 下修改Hosts文件](https://www.jianshu.com/p/752211238c1b)
 
 ## 未来
 
