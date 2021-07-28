@@ -28,6 +28,7 @@
 * css相关
 * typescript相关
 * 算法
+* [一个人的2021年的面试总结](https://juejin.cn/post/6989422484722286600#heading-117)
 
 ## 框架(包)
 
@@ -118,6 +119,7 @@
 * [取消订阅rxjs](https://blog.csdn.net/weixin_33777877/article/details/88063179?utm_medium=distribute.pc_relevant.none-task-blog-2%7Edefault%7EBlogCommendFromMachineLearnPai2%7Edefault-1.base&depth_1-utm_source=distribute.pc_relevant.none-task-blog-2%7Edefault%7EBlogCommendFromMachineLearnPai2%7Edefault-1.base)
 * [v8](https://zhuanlan.zhihu.com/v8core)
 * [react In Depth](https://www.zhihu.com/column/reactxp)
+* [Facebook 重构：抛弃 Sass / Less ，迎接原子化 CSS 时代](https://juejin.cn/post/6917073600474415117)
 
 ## 原生开发
 * [pod install速度慢的终极解决方案](https://www.cnblogs.com/jys509/p/12016226.html)
