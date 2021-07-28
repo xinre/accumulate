@@ -116,8 +116,8 @@
 * [rxjs 列表切换优化](https://blog.csdn.net/cumian8165/article/details/108107602)
 * [tailwindcss](http://tailwind.wyz.xyz/docs/optimizing-for-production)
 * [取消订阅rxjs](https://blog.csdn.net/weixin_33777877/article/details/88063179?utm_medium=distribute.pc_relevant.none-task-blog-2%7Edefault%7EBlogCommendFromMachineLearnPai2%7Edefault-1.base&depth_1-utm_source=distribute.pc_relevant.none-task-blog-2%7Edefault%7EBlogCommendFromMachineLearnPai2%7Edefault-1.base)
-*[v8](https://zhuanlan.zhihu.com/v8core)
-*[react In Depth](https://www.zhihu.com/column/reactxp)
+* [v8](https://zhuanlan.zhihu.com/v8core)
+* [react In Depth](https://www.zhihu.com/column/reactxp)
 
 ## 原生开发
 * [pod install速度慢的终极解决方案](https://www.cnblogs.com/jys509/p/12016226.html)
