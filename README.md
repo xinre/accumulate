@@ -123,6 +123,7 @@
 
 ## 原生开发
 * [pod install速度慢的终极解决方案](https://www.cnblogs.com/jys509/p/12016226.html)
+* [pod install 加快速度](https://www.cnblogs.com/Denny_Yang/p/14476567.html)
 * [pod install源](https://segmentfault.com/a/1190000021395336)
 * [Xcode找不到.h或者.m文件解决方法](https://blog.csdn.net/qq_23892379/article/details/81130378)
 * [Android Studio 4.0+ 中新的 UI 层次结构调试工具](https://juejin.cn/post/6844904178360254472)
