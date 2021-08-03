@@ -120,6 +120,8 @@
 * [v8](https://zhuanlan.zhihu.com/v8core)
 * [react In Depth](https://www.zhihu.com/column/reactxp)
 * [Facebook 重构：抛弃 Sass / Less ，迎接原子化 CSS 时代](https://juejin.cn/post/6917073600474415117)
+* [react 修改 input 的 defaultValue](https://blog.csdn.net/qq_33988065/article/details/111868699)
+* [webGl 框架对比](https://www.webglstudy.com/article/16.html)
 
 ## 原生开发
 * [pod install速度慢的终极解决方案](https://www.cnblogs.com/jys509/p/12016226.html)
