@@ -123,6 +123,7 @@
 * [react 修改 input 的 defaultValue](https://blog.csdn.net/qq_33988065/article/details/111868699)
 * [webGl 框架对比](https://www.webglstudy.com/article/16.html)
 * [js是怎样运行的](https://zhuanlan.zhihu.com/p/383959486)
+* [内存泄露的常见情况](https://mp.weixin.qq.com/s/yrueF-NxH6dCd4g_lTD5BA)
 
 ## 原生开发
 * [pod install速度慢的终极解决方案](https://www.cnblogs.com/jys509/p/12016226.html)
