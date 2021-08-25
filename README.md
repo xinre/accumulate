@@ -175,6 +175,7 @@
 ## git npm yarn
 
 * [常用npm和git发包和提交命令](https://github.com/xinre/accumulate/issues/3)
+* [Git 多台电脑共用SSH Key](https://blog.csdn.net/u012408797/article/details/116196831)
 * npm和yarn安装包区别
 
 ## 杂七杂八
