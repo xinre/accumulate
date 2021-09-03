@@ -125,6 +125,8 @@
 * [js是怎样运行的](https://zhuanlan.zhihu.com/p/383959486)
 * [内存泄露的常见情况](https://mp.weixin.qq.com/s/yrueF-NxH6dCd4g_lTD5BA)
 * [webpack 异步加载](https://www.cnblogs.com/goloving/p/14030945.html)
+* [离线预渲染OPR SSR](https://juejin.cn/post/6847037166552367111#heading-3)
+* [长连接/websocket/SSE](https://juejin.cn/post/6844903503505293320)
 
 ## 原生开发
 * [pod install速度慢的终极解决方案](https://www.cnblogs.com/jys509/p/12016226.html)
