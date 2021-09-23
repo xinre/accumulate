@@ -94,6 +94,7 @@
 * [position:fixed时水平滚动](https://www.sypopo.com/post/qbQl94DxrZ/)
 * [web性能](https://developer.mozilla.org/zh-CN/docs/Web/Performance)
 * [浏览器回流和重绘](https://www.cnblogs.com/xiahj/p/11777786.html)
+* [浏览器的组成](https://juejin.cn/post/6846687590540640263)
 * [浏览器知识](https://github.com/daydaylee1227/Blog/issues/10)
 * [浏览器渲染原理及流程](https://github.com/huzhao0316/articals/wiki/%E6%B5%8F%E8%A7%88%E5%99%A8%E6%B8%B2%E6%9F%93%E5%8E%9F%E7%90%86%E5%8F%8A%E6%B5%81%E7%A8%8B)
 * [chrome 渲染原理](https://segmentfault.com/a/1190000038468748)
