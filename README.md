@@ -98,6 +98,7 @@
 * [浏览器知识](https://github.com/daydaylee1227/Blog/issues/10)
 * [浏览器渲染原理及流程](https://github.com/huzhao0316/articals/wiki/%E6%B5%8F%E8%A7%88%E5%99%A8%E6%B8%B2%E6%9F%93%E5%8E%9F%E7%90%86%E5%8F%8A%E6%B5%81%E7%A8%8B)
 * [chrome 渲染原理](https://segmentfault.com/a/1190000038468748)
+* [DNS原理入门](https://www.ruanyifeng.com/blog/2016/06/dns.html)
 * [electron进程](https://juejin.cn/post/6844903969714601992)
 * [electron/remote模块](https://imweb.io/topic/5b3b72ab4d378e703a4f4435)
 * [electron进程通信](https://imweb.io/topic/5b13a663d4c96b9b1b4c4e9c)
