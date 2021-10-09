@@ -207,6 +207,8 @@
 
 ## 好的书籍
 * [书单：马克思主义从入门到进阶](https://zhuanlan.zhihu.com/p/25888209)
+* [书单推荐](https://www.zhihu.com/question/323151892/answer/694464358)
+* [枪炮、病菌与钢铁](https://www.zhihu.com/question/22469867/answer/510690300)
 
 
 
