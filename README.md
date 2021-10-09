@@ -173,6 +173,7 @@
 * [ios与rn发送事件](https://guiyongdong.github.io/2017/04/01/ReactNative%E5%AE%9E%E7%8E%B0js%E5%92%8C%E5%8E%9F%E7%94%9F%E4%BA%A4%E4%BA%92/)
 * [ios与rn发送事件](https://www.jianshu.com/p/9ea9d82a386b)
 * [react-native autoLink](https://juejin.cn/post/6844903987796246536)
+* [Maven与Gradle的对比](https://zhuanlan.zhihu.com/p/21394120)
 
 
 ## 数据库
