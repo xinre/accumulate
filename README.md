@@ -137,6 +137,8 @@
 * [一个有经验的前端写总结受益匪浅](https://github.com/woai3c/Front-end-articles)
 * [lee blog](https://github.com/daydaylee1227/Blog)
 * [一个不错的知乎专栏](https://www.zhihu.com/people/song-meng-xiang-95/columns)
+* [electron下载器](http://wwboke.win/2019/09/01/electron-download/)
+* [好未来electron输出](https://www.yuque.com/ezg6c4/op375w/dzis0y)
 
 ## 原生开发
 * [pod install速度慢的终极解决方案](https://www.cnblogs.com/jys509/p/12016226.html)
