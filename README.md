@@ -139,6 +139,7 @@
 * [一个不错的知乎专栏](https://www.zhihu.com/people/song-meng-xiang-95/columns)
 * [electron下载器](http://wwboke.win/2019/09/01/electron-download/)
 * [好未来electron输出](https://www.yuque.com/ezg6c4/op375w/dzis0y)
+* [Airbnb 规范](https://github.com/libertyAlone/airbnb-javascript-style-guide-cn)
 
 ## 原生开发
 * [pod install速度慢的终极解决方案](https://www.cnblogs.com/jys509/p/12016226.html)
