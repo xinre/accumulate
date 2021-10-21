@@ -140,6 +140,13 @@
 * [electron下载器](http://wwboke.win/2019/09/01/electron-download/)
 * [好未来electron输出](https://www.yuque.com/ezg6c4/op375w/dzis0y)
 * [Airbnb 规范](https://github.com/libertyAlone/airbnb-javascript-style-guide-cn)
+* [好的git仓 blog](https://github.com/ascoders/weekly)
+* [瓶子军blog](https://github.com/sisterAn/blog)
+* [基础的blog](https://github.com/yygmind/blog)
+* [justjavac索引](https://github.com/yinhonggen/free-programming-books-zh_CN)
+
+## 算法
+* [常用算法](https://github.com/sisterAn/JavaScript-Algorithms)
 
 ## 原生开发
 * [pod install速度慢的终极解决方案](https://www.cnblogs.com/jys509/p/12016226.html)
