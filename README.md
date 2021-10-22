@@ -191,6 +191,8 @@
 ## 其他语言
 * [go 教程](http://www.topgoer.com/)
 * [go chassis huawei](https://github.com/go-chassis/go-chassis)
+* [go blog](https://eddycjy.com/posts/)
+* [这是上边的git地址](https://github.com/eddycjy/blog)
 * 线程 进程 协程 go 中的多线程操作知识
 
 ## 终端
