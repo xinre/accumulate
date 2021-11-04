@@ -144,6 +144,7 @@
 * [瓶子军blog](https://github.com/sisterAn/blog)
 * [基础的blog](https://github.com/yygmind/blog)
 * [justjavac索引](https://github.com/yinhonggen/free-programming-books-zh_CN)
+* [使用React官方Hooks代替redux完整方案](https://zhuanlan.zhihu.com/p/417283750)
 
 ## 算法
 * [常用算法](https://github.com/sisterAn/JavaScript-Algorithms)
