@@ -148,6 +148,7 @@
 
 ## 算法
 * [常用算法](https://github.com/sisterAn/JavaScript-Algorithms)
+* [95% 的算法都是基于这 6 种算法思想](https://zhuanlan.zhihu.com/p/428479862)
 
 ## 原生开发
 * [pod install速度慢的终极解决方案](https://www.cnblogs.com/jys509/p/12016226.html)
