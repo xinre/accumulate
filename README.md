@@ -145,6 +145,8 @@
 * [基础的blog](https://github.com/yygmind/blog)
 * [justjavac索引](https://github.com/yinhonggen/free-programming-books-zh_CN)
 * [使用React官方Hooks代替redux完整方案](https://zhuanlan.zhihu.com/p/417283750)
+* [webpack 浅析](https://zhuanlan.zhihu.com/p/363928061)
+* [TypeScript 类型体操天花板](https://zhuanlan.zhihu.com/p/427309936)
 
 ## 算法
 * [常用算法](https://github.com/sisterAn/JavaScript-Algorithms)
