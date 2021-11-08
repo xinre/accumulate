@@ -146,7 +146,9 @@
 * [justjavac索引](https://github.com/yinhonggen/free-programming-books-zh_CN)
 * [使用React官方Hooks代替redux完整方案](https://zhuanlan.zhihu.com/p/417283750)
 * [webpack 浅析](https://zhuanlan.zhihu.com/p/363928061)
+* [webpack 插件架构深度解读](https://zhuanlan.zhihu.com/p/367931462)
 * [TypeScript 类型体操天花板](https://zhuanlan.zhihu.com/p/427309936)
+* [前端 node断点调试方法对比](https://juejin.cn/post/6987396078848966663)
 
 ## 算法
 * [常用算法](https://github.com/sisterAn/JavaScript-Algorithms)
