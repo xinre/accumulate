@@ -150,6 +150,7 @@
 * [webpack 插件架构深度解读](https://zhuanlan.zhihu.com/p/367931462)
 * [TypeScript 类型体操天花板](https://zhuanlan.zhihu.com/p/427309936)
 * [前端 node断点调试方法对比](https://juejin.cn/post/6987396078848966663)
+* [一个人的知乎文章集写的真的好学到了好多](https://www.zhihu.com/people/tec-van/posts)
 
 ## 算法
 * [常用算法](https://github.com/sisterAn/JavaScript-Algorithms)
