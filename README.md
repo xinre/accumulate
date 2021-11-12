@@ -202,6 +202,7 @@
 * [go blog](https://eddycjy.com/posts/)
 * [这是上边的git地址](https://github.com/eddycjy/blog)
 * 线程 进程 协程 go 中的多线程操作知识
+* [深度学习资源](https://github.com/d2l-ai/d2l-zh)
 
 ## 终端
 
