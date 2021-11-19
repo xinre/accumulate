@@ -153,6 +153,7 @@
 * [一个人的知乎文章集写的真的好学到了好多](https://www.zhihu.com/people/tec-van/posts)
 * [如何把Error信息暴露给前端](https://juejin.cn/post/6907876423059374094)
 * [fetch常见问题](https://www.cnblogs.com/wonyun/p/fetch_polyfill_timeout_jsonp_cookie_progress.html)
+* [InversifyJS](https://doc.inversify.cloud/zh_cn/purpose.html)
 
 ## 算法
 * [常用算法](https://github.com/sisterAn/JavaScript-Algorithms)
