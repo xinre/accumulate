@@ -155,6 +155,7 @@
 * [fetch常见问题](https://www.cnblogs.com/wonyun/p/fetch_polyfill_timeout_jsonp_cookie_progress.html)
 * [InversifyJS](https://doc.inversify.cloud/zh_cn/purpose.html)
 * [electron-template react版本](https://gitee.com/goudanz/electron-react-template?_from=gitee_search)
+* [大文件上传](https://juejin.cn/post/6844904046436843527)
 
 ## 算法
 * [常用算法](https://github.com/sisterAn/JavaScript-Algorithms)
