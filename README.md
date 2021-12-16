@@ -163,6 +163,7 @@
 * [css技巧](https://github.com/chokcoco/iCSS)
 * [垃圾回收机制](https://www.cnblogs.com/erqi/p/14436416.html)
 * [垃圾回收](https://juejin.cn/post/6981588276356317214)
+* [Service Worker](https://juejin.cn/post/6844903887296528398)
 
 ## 算法
 * [常用算法](https://github.com/sisterAn/JavaScript-Algorithms)
