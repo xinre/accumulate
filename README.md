@@ -167,6 +167,7 @@
 * [require动态引入图片报错](https://www.cnblogs.com/zoro-zero/p/14276331.html)
 * [web 3.0](https://juejin.cn/post/7031096140259360805)
 * [Web Components](https://www.ruanyifeng.com/blog/2019/08/web_components.html)
+* [2022 技术布局](https://zhuanlan.zhihu.com/p/444560997)
 
 ## 算法
 * [常用算法](https://github.com/sisterAn/JavaScript-Algorithms)
