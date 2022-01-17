@@ -165,6 +165,7 @@
 * [垃圾回收](https://juejin.cn/post/6981588276356317214)
 * [Service Worker](https://juejin.cn/post/6844903887296528398)
 * [require动态引入图片报错](https://www.cnblogs.com/zoro-zero/p/14276331.html)
+* [web 3.0](https://juejin.cn/post/7031096140259360805)
 
 ## 算法
 * [常用算法](https://github.com/sisterAn/JavaScript-Algorithms)
