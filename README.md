@@ -169,6 +169,7 @@
 * [Web Components](https://www.ruanyifeng.com/blog/2019/08/web_components.html)
 * [2022 技术布局](https://zhuanlan.zhihu.com/p/444560997)
 * [PWA 探讨](https://juejin.cn/post/6844903556470816781)
+* [Baas + Faas]
 
 ## 算法
 * [常用算法](https://github.com/sisterAn/JavaScript-Algorithms)
