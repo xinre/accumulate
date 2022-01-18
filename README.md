@@ -171,6 +171,7 @@
 * [PWA 探讨](https://juejin.cn/post/6844903556470816781)
 * [Baas + Faas]
 * [如何成为一名前端leader](https://juejin.cn/post/7034419410706104356)
+* [front end gather](https://github.com/FrontEndGitHub/FrontEndGitHub)
 
 ## 算法
 * [常用算法](https://github.com/sisterAn/JavaScript-Algorithms)
