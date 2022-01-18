@@ -170,6 +170,7 @@
 * [2022 技术布局](https://zhuanlan.zhihu.com/p/444560997)
 * [PWA 探讨](https://juejin.cn/post/6844903556470816781)
 * [Baas + Faas]
+* [如何成为一名前端leader](https://juejin.cn/post/7034419410706104356)
 
 ## 算法
 * [常用算法](https://github.com/sisterAn/JavaScript-Algorithms)
