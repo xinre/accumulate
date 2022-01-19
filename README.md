@@ -173,6 +173,7 @@
 * [如何成为一名前端leader](https://juejin.cn/post/7034419410706104356)
 * [front end gather](https://github.com/FrontEndGitHub/FrontEndGitHub)
 * [如何监控node内存泄露](https://imweb.io/topic/57cc5a75802d795b425977aa)
+* [webpack优化](https://juejin.cn/post/6996816316875161637)
 
 ## 算法
 * [常用算法](https://github.com/sisterAn/JavaScript-Algorithms)
