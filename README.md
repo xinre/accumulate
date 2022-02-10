@@ -175,6 +175,7 @@
 * [如何监控node内存泄露](https://imweb.io/topic/57cc5a75802d795b425977aa)
 * [webpack优化](https://juejin.cn/post/6996816316875161637)
 * [react 页面缓存](https://www.1024sou.com/article/18122.html)
+* [vue3 相关](https://www.zhihu.com/column/c_1338557711341277185)
 
 ## 算法
 * [常用算法](https://github.com/sisterAn/JavaScript-Algorithms)
