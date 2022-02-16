@@ -177,6 +177,7 @@
 * [react 页面缓存](https://www.1024sou.com/article/18122.html)
 * [vue3 相关](https://www.zhihu.com/column/c_1338557711341277185)
 * [webpack5更新 git blog](https://github.com/HolyZheng/holyZheng-blog/issues/48)
+* [Rust 🦀 and WebAssembly](https://rustwasm.github.io/docs/book/)
 
 ## 算法
 * [常用算法](https://github.com/sisterAn/JavaScript-Algorithms)
