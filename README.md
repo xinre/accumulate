@@ -245,6 +245,7 @@
 * [github.com:443](https://blog.csdn.net/btfireknight/article/details/104465263)
 * [Mac OS 下修改Hosts文件](https://www.jianshu.com/p/752211238c1b)
 * [git拉取失败问题](https://cloud.tencent.com/developer/article/1554281)
+* [mac 发热且磁盘占用过高问题 mds 谨慎关闭](https://www.jianshu.com/p/ee125d3dd6ef)
 
 ## 未来
 
