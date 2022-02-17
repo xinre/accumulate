@@ -178,6 +178,7 @@
 * [vue3 相关](https://www.zhihu.com/column/c_1338557711341277185)
 * [webpack5更新 git blog](https://github.com/HolyZheng/holyZheng-blog/issues/48)
 * [Rust 🦀 and WebAssembly](https://rustwasm.github.io/docs/book/)
+* [阿里开发者技术输出文章集](https://www.zhihu.com/people/di-xu-guang-50/posts)
 
 ## 算法
 * [常用算法](https://github.com/sisterAn/JavaScript-Algorithms)
