@@ -180,6 +180,8 @@
 * [Rust 🦀 and WebAssembly](https://rustwasm.github.io/docs/book/)
 * [阿里开发者技术输出文章集](https://www.zhihu.com/people/di-xu-guang-50/posts)
 * [vue源码逐行解析](https://github.com/qq281113270/vue)
+* [讲vue的blog](https://segmentfault.com/u/originalix)
+* [vue3 的diff](https://segmentfault.com/a/1190000023060173)
 
 ## 算法
 * [常用算法](https://github.com/sisterAn/JavaScript-Algorithms)
