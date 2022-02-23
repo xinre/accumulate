@@ -182,6 +182,7 @@
 * [vue源码逐行解析](https://github.com/qq281113270/vue)
 * [讲vue的blog](https://segmentfault.com/u/originalix)
 * [vue3 的diff](https://segmentfault.com/a/1190000023060173)
+* [mini-vue 项目](https://github.com/cuixiaorui/mini-vue)
 
 ## 算法
 * [常用算法](https://github.com/sisterAn/JavaScript-Algorithms)
