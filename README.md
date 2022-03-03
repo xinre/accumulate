@@ -237,6 +237,7 @@
 * [这是上边的git地址](https://github.com/eddycjy/blog)
 * 线程 进程 协程 go 中的多线程操作知识
 * [深度学习资源](https://github.com/d2l-ai/d2l-zh)
+* [一个 go 的前后端支付项目](https://github.com/kongyuebin1/dongfeng-pay)
 
 ## 终端
 
