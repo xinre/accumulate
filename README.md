@@ -190,6 +190,8 @@
 * [重学 Rxjs —— 实现 redux](https://juejin.cn/post/7067707941175951396)
 * [RxJS：四种 Subject 的用法和区别等相关知识](https://limeii.github.io/2019/07/rxjs-subject/)
 * [于react的redux或hooks搭建的两种全局数据共享](https://juejin.cn/post/6844903953310679054)
+* [测试 webpack split 和 异步路由 打包拆分逻辑是否做到了首屏只加载少部分用到的打包后的js, 切换路由动态加载用到的js文件]()
+* [找出用rxjs代替redux和全局触发器state变化后即能达到props的刷新效果和subject的刷新效果]()
 
 ## 算法
 * [常用算法](https://github.com/sisterAn/JavaScript-Algorithms)
