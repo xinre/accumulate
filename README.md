@@ -185,6 +185,11 @@
 * [mini-vue 项目](https://github.com/cuixiaorui/mini-vue)
 * [DOM / 事件 相关](https://zhuanlan.zhihu.com/p/83620150)
 * [typescript 关键知识难点](https://www.jianshu.com/p/1f9ce1e52171)
+* [使用 Rxjs 替代 Redux（一）](http://blog.splendourhui.com/2017/04/29/%E4%BD%BF%E7%94%A8%20Rxjs%20%E6%9B%BF%E4%BB%A3%20Redux%EF%BC%88%E4%B8%80%EF%BC%89/)
+* [RxJS与Redux结合使用（一）：打造自己的redux-observable](https://juejin.cn/post/6844903758334263309)
+* [重学 Rxjs —— 实现 redux](https://juejin.cn/post/7067707941175951396)
+* [RxJS：四种 Subject 的用法和区别等相关知识](https://limeii.github.io/2019/07/rxjs-subject/)
+* [于react的redux或hooks搭建的两种全局数据共享](https://juejin.cn/post/6844903953310679054)
 
 ## 算法
 * [常用算法](https://github.com/sisterAn/JavaScript-Algorithms)
