@@ -193,6 +193,8 @@
 * [测试 webpack split 和 异步路由 打包拆分逻辑是否做到了首屏只加载少部分用到的打包后的js, 切换路由动态加载用到的js文件]
 * [找出用rxjs代替redux和全局触发器state变化后即能达到props的刷新效果和subject的刷新效果]
 * [React Context性能优化](https://juejin.cn/post/6979138270827544606)
+* [node 修改内存限制](https://banyudu.com/posts/dynamic-change-nodejs-memory-limit.3c34c2)
+* [electron webpack配置构建方案](https://github.com/sundial-dreams/electron-react-template)
 
 ## 算法
 * [常用算法](https://github.com/sisterAn/JavaScript-Algorithms)
