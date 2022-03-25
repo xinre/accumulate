@@ -53,7 +53,7 @@
 * [RxJS 详解](https://cloud.tencent.com/developer/article/1004937)
 * [最简化 VUE的响应式原理](https://zhuanlan.zhihu.com/p/88648401)
 * [详解Vue响应式原理](https://www.cnblogs.com/fundebug/p/responsive-vue.html)
-* 找时间看react-infinite-scroll-component原理这周用碰见坑了最好写一个自己的无限滚动
+* 找时间看react-infinite-scroll-component原理这周用碰见坑了最好写一个自己的无限滚动这个不好用
 
 ## webpack 、rollup 等前端打包工具
 
