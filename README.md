@@ -199,6 +199,7 @@
 * [ts总结](https://mp.weixin.qq.com/s?__biz=MzIxMjExNzQxMQ==&mid=2247488443&idx=1&sn=049112194578cf31104167a3cf86df22&chksm=974ba177a03c28610fa1ba521781f07b6978a8098bb094b0430542347af756bcaa1b243c115a&scene=132#wechat_redirect)
 * [盘点二叉树](https://mp.weixin.qq.com/s?__biz=MzIxMjExNzQxMQ==&mid=2247488792&idx=1&sn=383fa1c52262aa474445c243f4827ad1&chksm=974ba7d4a03c2ec2cba1d7c4f4214242ccfdf497191df78cd4ce8248d4a5e8a724b9674593c9&mpshare=1&scene=23&srcid=040685zl3evkVRrBvO1asBRj&sharer_sharetime=1649206388237&sharer_shareid=1feaa47de401bf998cbd3b518a7e7bf9%23rd)
 * [前端点线面公众号文章集合](https://mp.weixin.qq.com/s?__biz=MzIxMjExNzQxMQ==&mid=2247488299&idx=1&sn=8b2376943f94aabc9e200303fdd2ac2c&chksm=974ba1e7a03c28f13680935424948686f15731cf58d184ab4c070e3a0f1724fb16c41833d478&scene=21#wechat_redirect)
+* [接私活感受](https://juejin.cn/post/7088538894891188238)
 
 ## 算法
 * [常用算法](https://github.com/sisterAn/JavaScript-Algorithms)
