@@ -49,6 +49,7 @@
 * Using or snooping principles react-virtualized
 * Using or snooping principles nsplayer
 * Using or snooping principles require
+* Using or snooping principles react-beautiful-dnd
 * [react-hook原理](https://github.com/brickspert/blog/issues/26)
 * [RxJS 详解](https://cloud.tencent.com/developer/article/1004937)
 * [最简化 VUE的响应式原理](https://zhuanlan.zhihu.com/p/88648401)
