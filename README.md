@@ -281,6 +281,7 @@
 * [Mac OS 下修改Hosts文件](https://www.jianshu.com/p/752211238c1b)
 * [git拉取失败问题](https://cloud.tencent.com/developer/article/1554281)
 * [mac 发热且磁盘占用过高问题 mds 谨慎关闭](https://www.jianshu.com/p/ee125d3dd6ef)
+* [docker原理](https://zhuanlan.zhihu.com/p/519499603)
 
 ## 未来
 * [接私活感受](https://juejin.cn/post/7088538894891188238)
