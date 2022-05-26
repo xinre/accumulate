@@ -263,6 +263,7 @@
 * 线程 进程 协程 go 中的多线程操作知识
 * [深度学习资源](https://github.com/d2l-ai/d2l-zh)
 * [一个 go 的前后端支付项目](https://github.com/kongyuebin1/dongfeng-pay)
+* [输入sql发生了什么](https://mp.weixin.qq.com/s/plJk753HBfjlloEvQdR53A)
 
 ## 终端
 
