@@ -210,6 +210,9 @@
 * [Tauri 桌面端开发了解](https://juejin.cn/post/7067342513920540686#comment)
 * [chrome 调试技巧](https://juejin.cn/post/7085135692568723492)
 * [自己实现虚拟列表](https://juejin.cn/post/7085941958228574215)
+* [websocket心跳重连](https://guopengzhen.com/%E7%A8%8B%E5%BA%8F%E7%8C%BF%E7%9A%84%E5%AD%A6%E4%B9%A0%E7%AC%94%E8%AE%B0/19770/)
+* [node 网络检查插件](https://www.psvmc.cn/article/2021-05-12-node-js-network.html)
+* [一个人的博客 码客](https://www.psvmc.cn/)
 
 ## 算法
 * [常用算法](https://github.com/sisterAn/JavaScript-Algorithms)
