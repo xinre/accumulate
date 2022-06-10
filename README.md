@@ -212,7 +212,7 @@
 * [自己实现虚拟列表](https://juejin.cn/post/7085941958228574215)
 * [websocket心跳重连](https://guopengzhen.com/%E7%A8%8B%E5%BA%8F%E7%8C%BF%E7%9A%84%E5%AD%A6%E4%B9%A0%E7%AC%94%E8%AE%B0/19770/)
 * [node 网络检查插件](https://www.psvmc.cn/article/2021-05-12-node-js-network.html)
-* [一个人的博客 码客](https://www.psvmc.cn/)
+* [一个人的博客 码客 文章集包含各种方面的知识 ****重点****](https://www.psvmc.cn/)
 * [2022年了，还不用Jenkins自动化部署？](https://juejin.cn/post/7048582881576222734)
 # rxjs整体学习
 * [最简单的理解](https://juejin.cn/post/7062632180656111646)
@@ -280,6 +280,7 @@
 * [常用npm和git发包和提交命令](https://github.com/xinre/accumulate/issues/3)
 * [Git 多台电脑共用SSH Key](https://blog.csdn.net/u012408797/article/details/116196831)
 * npm和yarn安装包区别
+* [git常用命令](https://mp.weixin.qq.com/s/Dmct6WKttIbe7gegrZTVSg)
 
 ## 杂七杂八
 * [打不开github问题](https://blog.csdn.net/yuxikuo_1/article/details/107302871)
