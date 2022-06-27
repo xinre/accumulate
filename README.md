@@ -214,6 +214,7 @@
 * [node 网络检查插件](https://www.psvmc.cn/article/2021-05-12-node-js-network.html)
 * [一个人的博客 码客 文章集包含各种方面的知识 ****重点****](https://www.psvmc.cn/)
 * [2022年了，还不用Jenkins自动化部署？](https://juejin.cn/post/7048582881576222734)
+* [chrome 调试](https://juejin.cn/post/7085135692568723492)
 # rxjs整体学习
 * [最简单的理解](https://juejin.cn/post/7062632180656111646)
 * [简单的概括](https://zhuanlan.zhihu.com/p/505579704)
