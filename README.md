@@ -224,6 +224,9 @@
 * [简单的概括](https://zhuanlan.zhihu.com/p/505579704)
 * [长篇](https://juejin.cn/post/6910943445569765384#heading-40)
 
+# 插件包专题
+* [深入了解好用的编辑器内核salte]
+
 ## 算法
 * [常用算法](https://github.com/sisterAn/JavaScript-Algorithms)
 * [95% 的算法都是基于这 6 种算法思想](https://zhuanlan.zhihu.com/p/428479862)
