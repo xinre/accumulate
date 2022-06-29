@@ -217,6 +217,7 @@
 * [25个常用正则表达式](https://juejin.cn/post/7016871226899431431)
 * [每日优鲜微前端实践 SingleSpa ](https://juejin.cn/post/6844903943873675271)
 * [常用的10款富文本编辑器](https://juejin.cn/post/7084046542994145294)
+* [深入slate 钉钉团队](https://www.zhihu.com/people/dingsuite)
 # rxjs整体学习
 * [最简单的理解](https://juejin.cn/post/7062632180656111646)
 * [简单的概括](https://zhuanlan.zhihu.com/p/505579704)
