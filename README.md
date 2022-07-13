@@ -219,6 +219,9 @@
 * [常用的10款富文本编辑器](https://juejin.cn/post/7084046542994145294)
 * [深入slate 钉钉团队](https://www.zhihu.com/people/dingsuite)
 * [hooks中闭包和过时闭包解释](https://segmentfault.com/a/1190000020805789)
+* [前端多线程下载](https://segmentfault.com/a/1190000024542207)
+
+# electron 专题
 # rxjs整体学习
 * [最简单的理解](https://juejin.cn/post/7062632180656111646)
 * [简单的概括](https://zhuanlan.zhihu.com/p/505579704)
