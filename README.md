@@ -229,6 +229,7 @@
 
 # 插件包专题
 * [深入了解好用的编辑器内核salte]
+* [好用的工具包](https://vxetable.cn/xe-utils/#/)
 
 ## 算法
 * [常用算法](https://github.com/sisterAn/JavaScript-Algorithms)
