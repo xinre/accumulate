@@ -220,6 +220,7 @@
 * [深入slate 钉钉团队](https://www.zhihu.com/people/dingsuite)
 * [hooks中闭包和过时闭包解释](https://segmentfault.com/a/1190000020805789)
 * [前端多线程下载](https://segmentfault.com/a/1190000024542207)
+* [react 阻止冒泡事件](https://zhuanlan.zhihu.com/p/26742034)
 
 # electron 专题
 # rxjs整体学习
