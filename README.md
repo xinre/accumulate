@@ -1,7 +1,6 @@
 # Accumulate
 
 ## 面试积累
-
 * [http相关](https://zhuanlan.zhihu.com/p/73409439)
 * [promise](https://github.com/xinre/my-primise)
 * promise使用
@@ -31,7 +30,6 @@
 * [一个人的2021年的面试总结](https://juejin.cn/post/6989422484722286600#heading-117)
 
 ## 框架(包)
-
 * [Using or snooping principles express->koa](https://github.com/xinre/primary-optimize-express)
 * Using or snooping principles koa-router(包括express中的router)
 * [Using or snooping principles redux](https://github.com/xinre/redux-my)
@@ -57,10 +55,18 @@
 * 找时间看react-infinite-scroll-component原理这周用碰见坑了最好写一个自己的无限滚动这个不好用
 
 ## webpack 、rollup 等前端打包工具
-
 * webpack打包
 * webpack优化方面（所用插件）
 * webpack自定义（loader||plugin）
+* [Webpack 大法之 Code Splitting](https://zhuanlan.zhihu.com/p/26710831)
+* [webpack 异步加载](https://www.cnblogs.com/goloving/p/14030945.html)
+* [webpack 浅析](https://zhuanlan.zhihu.com/p/363928061)
+* [webpack 插件架构深度解读](https://zhuanlan.zhihu.com/p/367931462)
+* [webpack优化](https://juejin.cn/post/6996816316875161637)
+* [webpack5更新 git blog](https://github.com/HolyZheng/holyZheng-blog/issues/48)
+* [测试 webpack split 和 异步路由 打包拆分逻辑是否做到了首屏只加载少部分用到的打包后的js, 切换路由动态加载用到的js文件]
+* [electron webpack配置构建方案](https://github.com/sundial-dreams/electron-react-template)
+
 
 ## 优质算法 && lee
 
@@ -78,15 +84,10 @@
 * [React 全局状态管理器横向对比](https://www.tangshuang.net/7862.html)
 * [redux、mobx、concent特性大比拼](https://segmentfault.com/a/1190000022332809)
 * [好用的React Hook 的库](https://juejin.cn/post/6932278035831848974)
-* [Vue3 尝鲜](https://juejin.cn/post/6844904039612678152)
-* [vue3 学习 之 vue3使用](https://juejin.cn/post/6896438269291347976)
 * [Vite 原理分析](https://juejin.cn/post/6902225969604460558)
 * [迁移到 antd@4](https://zhuanlan.zhihu.com/p/109067115)
 * [npm 和 npx 区别](https://www.zhihu.com/question/327989736/answer/787995048)
 * [http3 相关](https://zhuanlan.zhihu.com/p/281898715)
-* [electron-react模板](https://github.com/ConardLi/electron-react)
-* [electron 模板](https://github.com/bosscheng/electron-app-template)
-* [electron 模板 faceBook](https://github.com/electron-react-boilerplateelectron-react-boilerplate)
 * [阿里服务端渲染](https://umijs.org/zh-CN/docs/ssr)
 * [组件文档编写](https://d.umijs.org/zh-CN/guide)
 * [一个人写的服务端渲染原理](https://segmentfault.com/a/1190000020417285)
@@ -102,29 +103,12 @@
 * [浏览器渲染原理及流程](https://github.com/huzhao0316/articals/wiki/%E6%B5%8F%E8%A7%88%E5%99%A8%E6%B8%B2%E6%9F%93%E5%8E%9F%E7%90%86%E5%8F%8A%E6%B5%81%E7%A8%8B)
 * [chrome 渲染原理](https://segmentfault.com/a/1190000038468748)
 * [DNS原理入门](https://www.ruanyifeng.com/blog/2016/06/dns.html)
-* [electron进程](https://juejin.cn/post/6844903969714601992)
-* [electron/remote模块](https://imweb.io/topic/5b3b72ab4d378e703a4f4435)
-* [electron进程通信](https://imweb.io/topic/5b13a663d4c96b9b1b4c4e9c)
-* [electron打包](https://imweb.io/topic/5b6817b5f6734fdf12b4b09c)
-* [electron打包优化](https://imweb.io/topic/5b9f500cc2ec8e6772f34d79)
-* [electron错误捕获](https://github.com/xinre/accumulate/issues/4)
-* [reactFiber](https://juejin.cn/post/6844903975112671239)
-* [electron集合](https://juejin.cn/post/6903159782299926542)
-* [electron优化体验](https://juejin.cn/post/6844904029231775758)
-* [vue3和react-hooks](https://mp.weixin.qq.com/s/_AKjxHYRzplh5CmUXmmL8g)
 * [js 引擎和eventloop](https://zhuanlan.zhihu.com/p/371786505)
-* [rxjs 30天精通](https://ithelp.ithome.com.tw/articles/10189028)
-* [rxjs 简单使用](https://segmentfault.com/a/1190000012252368)
-* [淺顯易懂的 RxJS 教學](https://blog.techbridge.cc/2017/12/08/rxjs/)
-* [RxJS Observables vs Promise 之简单对比](https://juejin.cn/post/6844903849086418952)
 * [React路由守卫的简单实现](https://blog.csdn.net/weixin_41564885/article/details/108469132)
 * [useSelector 跟以前的redux connect取值有什么区别？]
 * [前端音乐hooks](https://github.com/joshwcomeau/use-sound)
 * [Tree-Shaking性能优化实践](https://juejin.cn/post/6844903544756109319)
-* [Webpack 大法之 Code Splitting](https://zhuanlan.zhihu.com/p/26710831)
-* [rxjs 列表切换优化](https://blog.csdn.net/cumian8165/article/details/108107602)
 * [tailwindcss](http://tailwind.wyz.xyz/docs/optimizing-for-production)
-* [取消订阅rxjs](https://blog.csdn.net/weixin_33777877/article/details/88063179?utm_medium=distribute.pc_relevant.none-task-blog-2%7Edefault%7EBlogCommendFromMachineLearnPai2%7Edefault-1.base&depth_1-utm_source=distribute.pc_relevant.none-task-blog-2%7Edefault%7EBlogCommendFromMachineLearnPai2%7Edefault-1.base)
 * [v8](https://zhuanlan.zhihu.com/v8core)
 * [react In Depth](https://www.zhihu.com/column/reactxp)
 * [Facebook 重构：抛弃 Sass / Less ，迎接原子化 CSS 时代](https://juejin.cn/post/6917073600474415117)
@@ -132,32 +116,18 @@
 * [webGl 框架对比](https://www.webglstudy.com/article/16.html)
 * [js是怎样运行的](https://zhuanlan.zhihu.com/p/383959486)
 * [内存泄露的常见情况](https://mp.weixin.qq.com/s/yrueF-NxH6dCd4g_lTD5BA)
-* [webpack 异步加载](https://www.cnblogs.com/goloving/p/14030945.html)
 * [离线预渲染OPR SSR](https://juejin.cn/post/6847037166552367111#heading-3)
 * [长连接/websocket/SSE](https://juejin.cn/post/6844903503505293320)
-* [mini vue](https://juejin.cn/post/6911897255087702030)
 * [集成sqlite数据库](https://juejin.cn/post/6850418113431732232)
 * [一个有经验的前端写总结受益匪浅](https://github.com/woai3c/Front-end-articles)
-* [lee blog](https://github.com/daydaylee1227/Blog)
-* [一个不错的知乎专栏](https://www.zhihu.com/people/song-meng-xiang-95/columns)
-* [electron下载器](http://wwboke.win/2019/09/01/electron-download/)
-* [好未来electron输出](https://www.yuque.com/ezg6c4/op375w/dzis0y)
 * [Airbnb 规范](https://github.com/libertyAlone/airbnb-javascript-style-guide-cn)
-* [好的git仓 blog](https://github.com/ascoders/weekly)
-* [瓶子军blog](https://github.com/sisterAn/blog)
-* [基础的blog](https://github.com/yygmind/blog)
 * [justjavac索引](https://github.com/yinhonggen/free-programming-books-zh_CN)
 * [使用React官方Hooks代替redux完整方案](https://zhuanlan.zhihu.com/p/417283750)
-* [webpack 浅析](https://zhuanlan.zhihu.com/p/363928061)
-* [webpack 插件架构深度解读](https://zhuanlan.zhihu.com/p/367931462)
 * [TypeScript 类型体操天花板](https://zhuanlan.zhihu.com/p/427309936)
 * [前端 node断点调试方法对比](https://juejin.cn/post/6987396078848966663)
-* [一个人的知乎文章集写的真的好学到了好多](https://www.zhihu.com/people/tec-van/posts)
 * [如何把Error信息暴露给前端](https://juejin.cn/post/6907876423059374094)
 * [fetch常见问题](https://www.cnblogs.com/wonyun/p/fetch_polyfill_timeout_jsonp_cookie_progress.html)
 * [InversifyJS](https://doc.inversify.cloud/zh_cn/purpose.html)
-* [electron-template react版本](https://gitee.com/goudanz/electron-react-template?_from=gitee_search)
-* [electron-temolate git 上 react 版本](https://github.com/umbrella22/electron-react-template)
 * [大文件上传](https://juejin.cn/post/6844904046436843527)
 * [大文件下载](https://juejin.cn/post/6954868879034155022)
 * [多线程下载](https://juejin.cn/post/6874991690747215880)
@@ -172,37 +142,18 @@
 * [2022 技术布局](https://zhuanlan.zhihu.com/p/444560997)
 * [PWA 探讨](https://juejin.cn/post/6844903556470816781)
 * [Baas + Faas]
-* [如何成为一名前端leader](https://juejin.cn/post/7034419410706104356)
 * [front end gather](https://github.com/FrontEndGitHub/FrontEndGitHub)
 * [如何监控node内存泄露](https://imweb.io/topic/57cc5a75802d795b425977aa)
-* [webpack优化](https://juejin.cn/post/6996816316875161637)
 * [react 页面缓存](https://www.1024sou.com/article/18122.html)
-* [vue3 相关](https://www.zhihu.com/column/c_1338557711341277185)
-* [webpack5更新 git blog](https://github.com/HolyZheng/holyZheng-blog/issues/48)
 * [Rust 🦀 and WebAssembly](https://rustwasm.github.io/docs/book/)
 * [阿里开发者技术输出文章集](https://www.zhihu.com/people/di-xu-guang-50/posts)
-* [vue源码逐行解析](https://github.com/qq281113270/vue)
-* [讲vue的blog](https://segmentfault.com/u/originalix)
-* [vue3 的diff](https://segmentfault.com/a/1190000023060173)
-* [mini-vue 项目](https://github.com/cuixiaorui/mini-vue)
 * [DOM / 事件 相关](https://zhuanlan.zhihu.com/p/83620150)
 * [typescript 关键知识难点](https://www.jianshu.com/p/1f9ce1e52171)
-* [使用 Rxjs 替代 Redux（一）](http://blog.splendourhui.com/2017/04/29/%E4%BD%BF%E7%94%A8%20Rxjs%20%E6%9B%BF%E4%BB%A3%20Redux%EF%BC%88%E4%B8%80%EF%BC%89/)
-* [RxJS与Redux结合使用（一）：打造自己的redux-observable](https://juejin.cn/post/6844903758334263309)
-* [重学 Rxjs —— 实现 redux](https://juejin.cn/post/7067707941175951396)
-* [RxJS：四种 Subject 的用法和区别等相关知识](https://limeii.github.io/2019/07/rxjs-subject/)
 * [于react的redux或hooks搭建的两种全局数据共享](https://juejin.cn/post/6844903953310679054)
-* [测试 webpack split 和 异步路由 打包拆分逻辑是否做到了首屏只加载少部分用到的打包后的js, 切换路由动态加载用到的js文件]
-* [找出用rxjs代替redux和全局触发器state变化后即能达到props的刷新效果和subject的刷新效果]
 * [React Context性能优化](https://juejin.cn/post/6979138270827544606)
 * [node 修改内存限制](https://banyudu.com/posts/dynamic-change-nodejs-memory-limit.3c34c2)
-* [electron webpack配置构建方案](https://github.com/sundial-dreams/electron-react-template)
 * [ts总结](https://mp.weixin.qq.com/s?__biz=MzIxMjExNzQxMQ==&mid=2247488443&idx=1&sn=049112194578cf31104167a3cf86df22&chksm=974ba177a03c28610fa1ba521781f07b6978a8098bb094b0430542347af756bcaa1b243c115a&scene=132#wechat_redirect)
-* [盘点二叉树](https://mp.weixin.qq.com/s?__biz=MzIxMjExNzQxMQ==&mid=2247488792&idx=1&sn=383fa1c52262aa474445c243f4827ad1&chksm=974ba7d4a03c2ec2cba1d7c4f4214242ccfdf497191df78cd4ce8248d4a5e8a724b9674593c9&mpshare=1&scene=23&srcid=040685zl3evkVRrBvO1asBRj&sharer_sharetime=1649206388237&sharer_shareid=1feaa47de401bf998cbd3b518a7e7bf9%23rd)
-* [前端点线面公众号文章集合](https://mp.weixin.qq.com/s?__biz=MzIxMjExNzQxMQ==&mid=2247488299&idx=1&sn=8b2376943f94aabc9e200303fdd2ac2c&chksm=974ba1e7a03c28f13680935424948686f15731cf58d184ab4c070e3a0f1724fb16c41833d478&scene=21#wechat_redirect)
 * [postcss-px-to-viewport 方案](https://juejin.cn/post/7084926646033055752)
-* [electron+rust方案](https://www.ancii.com/abtd0avbx/)
-* [electron+方案探讨](https://www.zhihu.com/question/268413089/answer/337266433)
 * [npm run xxx 的时候发生了什么](https://juejin.cn/post/7078924628525056007)
 * [玻璃拟态效果](https://juejin.cn/post/7086759520025706526)
 * [react 84 张脑图](https://juejin.cn/post/7085145274200358949#heading-40)
@@ -212,21 +163,81 @@
 * [自己实现虚拟列表](https://juejin.cn/post/7085941958228574215)
 * [websocket心跳重连](https://guopengzhen.com/%E7%A8%8B%E5%BA%8F%E7%8C%BF%E7%9A%84%E5%AD%A6%E4%B9%A0%E7%AC%94%E8%AE%B0/19770/)
 * [node 网络检查插件](https://www.psvmc.cn/article/2021-05-12-node-js-network.html)
-* [一个人的博客 码客 文章集包含各种方面的知识 ****重点****](https://www.psvmc.cn/)
 * [2022年了，还不用Jenkins自动化部署？](https://juejin.cn/post/7048582881576222734)
 * [25个常用正则表达式](https://juejin.cn/post/7016871226899431431)
 * [每日优鲜微前端实践 SingleSpa ](https://juejin.cn/post/6844903943873675271)
-* [常用的10款富文本编辑器](https://juejin.cn/post/7084046542994145294)
-* [深入slate 钉钉团队](https://www.zhihu.com/people/dingsuite)
 * [hooks中闭包和过时闭包解释](https://segmentfault.com/a/1190000020805789)
 * [前端多线程下载](https://segmentfault.com/a/1190000024542207)
 * [react 阻止冒泡事件](https://zhuanlan.zhihu.com/p/26742034)
 
+# react 专题
+
+# vue专题
+* [vue3和react-hooks](https://mp.weixin.qq.com/s/_AKjxHYRzplh5CmUXmmL8g)
+* [Vue3 尝鲜](https://juejin.cn/post/6844904039612678152)
+* [vue3 学习 之 vue3使用](https://juejin.cn/post/6896438269291347976)
+* [vue源码逐行解析](https://github.com/qq281113270/vue)
+* [讲vue的blog](https://segmentfault.com/u/originalix)
+* [vue3 的diff](https://segmentfault.com/a/1190000023060173)
+* [mini-vue 项目](https://github.com/cuixiaorui/mini-vue)
+* [vue3 相关](https://www.zhihu.com/column/c_1338557711341277185)
+* [mini vue](https://juejin.cn/post/6911897255087702030)
+
+
+# 编辑器 专题
+* [基于 Next.js 脚手架实现仿掘金编辑器](https://juejin.cn/post/6844903736783945742)
+* [利用 javascript 实现富文本编辑器](http://eux.baidu.com/blog/fe/%e5%88%a9%e7%94%a8-javascript-%e5%ae%9e%e7%8e%b0%e5%af%8c%e6%96%87%e6%9c%ac%e7%bc%96%e8%be%91%e5%99%a8)
+* [一个非常好的编辑器入门研究项目 pell.js](https://github.com/jaredreich/pell)
+* [深入slate 钉钉团队](https://www.zhihu.com/people/dingsuite)
+* [常用的10款富文本编辑器](https://juejin.cn/post/7084046542994145294)
+
+
+# 优秀的博客 专题
+* [lee blog](https://github.com/daydaylee1227/Blog)
+* [一个不错的知乎专栏](https://www.zhihu.com/people/song-meng-xiang-95/columns)
+* [好的git仓 blog](https://github.com/ascoders/weekly)
+* [瓶子军blog](https://github.com/sisterAn/blog)
+* [基础的blog](https://github.com/yygmind/blog)
+* [一个人的知乎文章集写的真的好学到了好多](https://www.zhihu.com/people/tec-van/posts)
+* [前端点线面公众号文章集合](https://mp.weixin.qq.com/s?__biz=MzIxMjExNzQxMQ==&mid=2247488299&idx=1&sn=8b2376943f94aabc9e200303fdd2ac2c&chksm=974ba1e7a03c28f13680935424948686f15731cf58d184ab4c070e3a0f1724fb16c41833d478&scene=21#wechat_redirect)
+* [一个人的博客 码客 文章集包含很多方面](https://www.psvmc.cn/)
+
 # electron 专题
+* [electron+rust方案](https://www.ancii.com/abtd0avbx/)
+* [electron+方案探讨](https://www.zhihu.com/question/268413089/answer/337266433)
+* [electron进程](https://juejin.cn/post/6844903969714601992)
+* [electron/remote模块](https://imweb.io/topic/5b3b72ab4d378e703a4f4435)
+* [electron进程通信](https://imweb.io/topic/5b13a663d4c96b9b1b4c4e9c)
+* [electron打包](https://imweb.io/topic/5b6817b5f6734fdf12b4b09c)
+* [electron打包优化](https://imweb.io/topic/5b9f500cc2ec8e6772f34d79)
+* [electron错误捕获](https://github.com/xinre/accumulate/issues/4)
+* [reactFiber](https://juejin.cn/post/6844903975112671239)
+* [electron集合](https://juejin.cn/post/6903159782299926542)
+* [electron优化体验](https://juejin.cn/post/6844904029231775758)
+* [electron-react模板](https://github.com/ConardLi/electron-react)
+* [electron 模板](https://github.com/bosscheng/electron-app-template)
+* [electron 模板 faceBook](https://github.com/electron-react-boilerplateelectron-react-boilerplate)
+* [electron-template react版本](https://gitee.com/goudanz/electron-react-template?_from=gitee_search)
+* [electron-temolate git 上 react 版本](https://github.com/umbrella22/electron-react-template)
+* [electron下载器](http://wwboke.win/2019/09/01/electron-download/)
+* [好未来electron输出](https://www.yuque.com/ezg6c4/op375w/dzis0y)
+
+
 # rxjs整体学习
+* [找出用rxjs代替redux和全局触发器state变化后即能达到props的刷新效果和subject的刷新效果]
 * [最简单的理解](https://juejin.cn/post/7062632180656111646)
 * [简单的概括](https://zhuanlan.zhihu.com/p/505579704)
 * [长篇](https://juejin.cn/post/6910943445569765384#heading-40)
+* [rxjs 30天精通](https://ithelp.ithome.com.tw/articles/10189028)
+* [rxjs 简单使用](https://segmentfault.com/a/1190000012252368)
+* [淺顯易懂的 RxJS 教學](https://blog.techbridge.cc/2017/12/08/rxjs/)
+* [RxJS Observables vs Promise 之简单对比](https://juejin.cn/post/6844903849086418952)
+* [取消订阅rxjs](https://blog.csdn.net/weixin_33777877/article/details/88063179?utm_medium=distribute.pc_relevant.none-task-blog-2%7Edefault%7EBlogCommendFromMachineLearnPai2%7Edefault-1.base&depth_1-utm_source=distribute.pc_relevant.none-task-blog-2%7Edefault%7EBlogCommendFromMachineLearnPai2%7Edefault-1.base)
+* [rxjs 列表切换优化](https://blog.csdn.net/cumian8165/article/details/108107602)
+* [使用 Rxjs 替代 Redux（一）](http://blog.splendourhui.com/2017/04/29/%E4%BD%BF%E7%94%A8%20Rxjs%20%E6%9B%BF%E4%BB%A3%20Redux%EF%BC%88%E4%B8%80%EF%BC%89/)
+* [RxJS与Redux结合使用（一）：打造自己的redux-observable](https://juejin.cn/post/6844903758334263309)
+* [重学 Rxjs —— 实现 redux](https://juejin.cn/post/7067707941175951396)
+* [RxJS：四种 Subject 的用法和区别等相关知识](https://limeii.github.io/2019/07/rxjs-subject/)
 
 # 插件包专题
 * [深入了解好用的编辑器内核salte]
@@ -235,6 +246,7 @@
 ## 算法
 * [常用算法](https://github.com/sisterAn/JavaScript-Algorithms)
 * [95% 的算法都是基于这 6 种算法思想](https://zhuanlan.zhihu.com/p/428479862)
+* [盘点二叉树](https://mp.weixin.qq.com/s?__biz=MzIxMjExNzQxMQ==&mid=2247488792&idx=1&sn=383fa1c52262aa474445c243f4827ad1&chksm=974ba7d4a03c2ec2cba1d7c4f4214242ccfdf497191df78cd4ce8248d4a5e8a724b9674593c9&mpshare=1&scene=23&srcid=040685zl3evkVRrBvO1asBRj&sharer_sharetime=1649206388237&sharer_shareid=1feaa47de401bf998cbd3b518a7e7bf9%23rd)
 
 ## 原生开发
 * [pod install速度慢的终极解决方案](https://www.cnblogs.com/jys509/p/12016226.html)
@@ -307,6 +319,7 @@
 
 ## 未来
 * [接私活感受](https://juejin.cn/post/7088538894891188238)
+* [如何成为一名前端leader](https://juejin.cn/post/7034419410706104356)
 
 ## 生活
 * [如何理清五代十国的历史？](https://www.zhihu.com/question/30046079/answer/121350040)
