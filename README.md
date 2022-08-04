@@ -190,6 +190,7 @@
 * [一个非常好的编辑器入门研究项目 pell.js](https://github.com/jaredreich/pell)
 * [深入slate 钉钉团队](https://www.zhihu.com/people/dingsuite)
 * [常用的10款富文本编辑器](https://juejin.cn/post/7084046542994145294)
+* [深入的看一下wangEditor源码]
 
 
 # 优秀的博客 专题
