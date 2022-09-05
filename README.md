@@ -193,6 +193,7 @@
 * [深入的看一下wangEditor源码]
 * [编辑器调研](https://juejin.cn/post/6954896971370856485#comment)
 * [基于slate](https://juejin.cn/post/6968061014046670884)
+* [slate初始调研](https://juejin.cn/post/6917123466307698696)
 
 
 # 优秀的博客 专题
