@@ -191,6 +191,8 @@
 * [深入slate 钉钉团队](https://www.zhihu.com/people/dingsuite)
 * [常用的10款富文本编辑器](https://juejin.cn/post/7084046542994145294)
 * [深入的看一下wangEditor源码]
+* [编辑器调研](https://juejin.cn/post/6954896971370856485#comment)
+* [基于slate](https://juejin.cn/post/6968061014046670884)
 
 
 # 优秀的博客 专题
