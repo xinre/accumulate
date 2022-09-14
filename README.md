@@ -155,6 +155,8 @@
 * [每日优鲜微前端实践 SingleSpa ](https://juejin.cn/post/6844903943873675271)
 * [hooks中闭包和过时闭包解释](https://segmentfault.com/a/1190000020805789)
 * [前端多线程下载](https://segmentfault.com/a/1190000024542207)
+* [掘金上一个人被面的前端问题可以作为知识点](https://juejin.cn/post/7142690757722243102)
+* [深入剖析WebSocket] (https://zhuanlan.zhihu.com/p/32845970)
 
 # react 专题
 * [React 全局状态管理器横向对比](https://www.tangshuang.net/7862.html)
