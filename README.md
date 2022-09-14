@@ -86,6 +86,7 @@
 * [迁移到 antd@4](https://zhuanlan.zhihu.com/p/109067115)
 * [npm 和 npx 区别](https://www.zhihu.com/question/327989736/answer/787995048)
 * [http3 相关](https://zhuanlan.zhihu.com/p/281898715)
+* [http 深层剖析](https://juejin.cn/post/6844904045572800525)
 * [阿里服务端渲染](https://umijs.org/zh-CN/docs/ssr)
 * [组件文档编写](https://d.umijs.org/zh-CN/guide)
 * [一个人写的服务端渲染原理](https://segmentfault.com/a/1190000020417285)
