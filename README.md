@@ -334,6 +334,9 @@
 
 ## 理财
 
+## 语言学习
+* [应时新概念英语 2-4 逐行解析](https://github.com/wish1776/NCE)
+
 ## 好的书籍
 * [书单：马克思主义从入门到进阶](https://zhuanlan.zhihu.com/p/25888209)
 * [书单推荐](https://www.zhihu.com/question/323151892/answer/694464358)
