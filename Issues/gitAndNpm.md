@@ -4,6 +4,7 @@
 - git remote add 库的名称 库的url		增加一个远端
 - git add . 提交到缓存区
 - git commit -m ‘…..’  提交commit 引号中是提交信息
+- git reset --soft HEAD^ 撤回上次commit到本地
 - git status 显示代码库状态
 - git log 打印提交信息
 - git diff 对比提交代码
