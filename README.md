@@ -158,6 +158,8 @@
 * [前端多线程下载](https://segmentfault.com/a/1190000024542207)
 * [掘金上一个人被面的前端问题可以作为知识点](https://juejin.cn/post/7142690757722243102)
 * [深入剖析WebSocket] (https://zhuanlan.zhihu.com/p/32845970)
+* [前端调试技巧] (https://juejin.cn/post/7145256569041584142)
+* [前端抓包调试技巧] (https://juejin.cn/post/6844903928719491080)
 
 # react 专题
 * [React 全局状态管理器横向对比](https://www.tangshuang.net/7862.html)
