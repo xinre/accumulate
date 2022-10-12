@@ -160,6 +160,7 @@
 * [深入剖析WebSocket] (https://zhuanlan.zhihu.com/p/32845970)
 * [前端调试技巧] (https://juejin.cn/post/7145256569041584142)
 * [前端抓包调试技巧] (https://juejin.cn/post/6844903928719491080)
+* [微前端系列] (https://juejin.cn/post/6955341801381167112)
 
 # react 专题
 * [React 全局状态管理器横向对比](https://www.tangshuang.net/7862.html)
