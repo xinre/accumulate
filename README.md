@@ -212,6 +212,7 @@
 * [前端点线面公众号文章集合](https://mp.weixin.qq.com/s?__biz=MzIxMjExNzQxMQ==&mid=2247488299&idx=1&sn=8b2376943f94aabc9e200303fdd2ac2c&chksm=974ba1e7a03c28f13680935424948686f15731cf58d184ab4c070e3a0f1724fb16c41833d478&scene=21#wechat_redirect)
 * [一个人的博客 码客 文章集包含很多方面](https://www.psvmc.cn/)
 * [justjavac索引](https://github.com/yinhonggen/free-programming-books-zh_CN)
+* [掘金一个讲webpack和微前端好的blog](https://juejin.cn/user/624178336634701/posts)
 
 # electron 专题
 * [electron+rust方案](https://www.ancii.com/abtd0avbx/)
