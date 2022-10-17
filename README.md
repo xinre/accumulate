@@ -161,6 +161,7 @@
 * [前端调试技巧] (https://juejin.cn/post/7145256569041584142)
 * [前端抓包调试技巧] (https://juejin.cn/post/6844903928719491080)
 * [微前端系列] (https://juejin.cn/post/6955341801381167112)
+* [前端加密] (https://juejin.cn/post/7128955031063101448)
 
 # react 专题
 * [React 全局状态管理器横向对比](https://www.tangshuang.net/7862.html)
