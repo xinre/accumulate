@@ -236,6 +236,7 @@
 * [electron-temolate git 上 react 版本](https://github.com/umbrella22/electron-react-template)
 * [electron下载器](http://wwboke.win/2019/09/01/electron-download/)
 * [好未来electron输出](https://www.yuque.com/ezg6c4/op375w/dzis0y)
+* [不连vpn安装electron](https://blog.csdn.net/weixin_43840341/article/details/119363108)
 
 
 # rxjs整体学习
