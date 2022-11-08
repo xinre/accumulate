@@ -216,6 +216,7 @@
 * [一个人的博客 码客 文章集包含很多方面](https://www.psvmc.cn/)
 * [justjavac索引](https://github.com/yinhonggen/free-programming-books-zh_CN)
 * [掘金一个讲webpack和微前端好的blog](https://juejin.cn/user/624178336634701/posts)
+* [&这个讲工程化和框架原理很细很全有时间重点看看&](https://juejin.cn/user/2594503172831208/posts)
 
 # electron 专题
 * [electron+rust方案](https://www.ancii.com/abtd0avbx/)
