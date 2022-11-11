@@ -78,6 +78,9 @@
 * [linux 命令](https://www.runoob.com/linux/linux-command-manual.html)
 * [docker](https://www.runoob.com/docker/docker-container-usage.html)
 * [docker 命令](https://www.runoob.com/docker/docker-command-manual.html)
+* [docker原理](https://zhuanlan.zhihu.com/p/519499603)
+* [docker使用](https://www.ruanyifeng.com/blog/2018/02/docker-tutorial.html)
+* [docker入门到实践] (https://yeasy.gitbook.io/docker_practice/)
 * [前端和后端微服务知识]()
 
 ## 前端知识
@@ -90,6 +93,9 @@
 * [阿里服务端渲染](https://umijs.org/zh-CN/docs/ssr)
 * [组件文档编写](https://d.umijs.org/zh-CN/guide)
 * [一个人写的服务端渲染原理](https://segmentfault.com/a/1190000020417285)
+* [juejin上个人写的服务端渲染和next浅析](https://juejin.cn/post/6844904017487724557#heading-20)
+* [juejin上个人写的服务端渲染](https://juejin.cn/post/6844903943902855176#heading-25)
+* [把next的运行原理写在issue里包括注入生成html步骤和初始化渲染还有首屏加载完之后前端跳转其他路由SSR+CSR实现原理]
 * [WebAssembly](https://www.w3ctech.com/topic/2027)
 * [代码规范](https://juejin.cn/post/6844904136014561294)
 * [ts泛型](https://cloud.tencent.com/developer/article/1668256)
@@ -123,6 +129,7 @@
 * [InversifyJS](https://doc.inversify.cloud/zh_cn/purpose.html)
 * [大文件上传](https://juejin.cn/post/6844904046436843527)
 * [大文件下载](https://juejin.cn/post/6954868879034155022)
+* [前端文件上传和node服务端部分上传](https://juejin.cn/post/6844903968338870285)
 * [多线程下载](https://juejin.cn/post/6874991690747215880)
 * [浏览器行为问题](https://juejin.cn/post/6967543183521611783)
 * [css技巧](https://github.com/chokcoco/iCSS)
@@ -332,7 +339,6 @@
 * [Mac OS 下修改Hosts文件](https://www.jianshu.com/p/752211238c1b)
 * [git拉取失败问题](https://cloud.tencent.com/developer/article/1554281)
 * [mac 发热且磁盘占用过高问题 mds 谨慎关闭](https://www.jianshu.com/p/ee125d3dd6ef)
-* [docker原理](https://zhuanlan.zhihu.com/p/519499603)
 
 ## 未来
 * [接私活感受](https://juejin.cn/post/7088538894891188238)
