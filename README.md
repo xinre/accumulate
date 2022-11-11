@@ -95,6 +95,7 @@
 * [一个人写的服务端渲染原理](https://segmentfault.com/a/1190000020417285)
 * [juejin上个人写的服务端渲染和next浅析](https://juejin.cn/post/6844904017487724557#heading-20)
 * [juejin上个人写的服务端渲染](https://juejin.cn/post/6844903943902855176#heading-25)
+* [nextjs预渲染](https://juejin.cn/post/6991397899317805064)
 * [把next的运行原理写在issue里包括注入生成html步骤和初始化渲染还有首屏加载完之后前端跳转其他路由SSR+CSR实现原理]
 * [WebAssembly](https://www.w3ctech.com/topic/2027)
 * [代码规范](https://juejin.cn/post/6844904136014561294)
