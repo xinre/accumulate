@@ -172,6 +172,8 @@
 * [前端加密] (https://juejin.cn/post/7128955031063101448)
 * [常用插件cross-env] (https://www.jianshu.com/p/1828a5d564ac)
 * [node检测断网] (https://juejin.cn/post/6844903824558145543)
+* [compose函数] (https://juejin.cn/post/6989020415444123662#heading-2)
+* [compose函数方案](https://juejin.cn/post/6989815456416661534)
 
 # react 专题
 * [React 全局状态管理器横向对比](https://www.tangshuang.net/7862.html)
