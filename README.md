@@ -102,6 +102,7 @@
 * [ts泛型](https://cloud.tencent.com/developer/article/1668256)
 * [position:fixed时水平滚动](https://www.sypopo.com/post/qbQl94DxrZ/)
 * [web性能](https://developer.mozilla.org/zh-CN/docs/Web/Performance)
+* [通过Performance理解Event Loop](https://zhuanlan.zhihu.com/p/574361439)
 * [浏览器回流和重绘](https://www.cnblogs.com/xiahj/p/11777786.html)
 * [浏览器的组成](https://juejin.cn/post/6846687590540640263)
 * [浏览器知识](https://github.com/daydaylee1227/Blog/issues/10)
@@ -190,6 +191,7 @@
 * [React Context性能优化](https://juejin.cn/post/6979138270827544606)
 * [react 页面缓存](https://www.1024sou.com/article/18122.html)
 * [react 官网加载原理里面对比了ssr csr ssg](https://juejin.cn/post/7128369638794231839)
+* [React 18 并发机制](https://zhuanlan.zhihu.com/p/587588034)
 
 # vue专题
 * [vue3和react-hooks](https://mp.weixin.qq.com/s/_AKjxHYRzplh5CmUXmmL8g)
