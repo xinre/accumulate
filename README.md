@@ -315,7 +315,8 @@
 * [Maven与Gradle的对比](https://zhuanlan.zhihu.com/p/21394120)
 
 ## 什么是计算机计算机是怎样工作的
-* [初级解读](https://www.zhihu.com/question/27470113/answer/69680149)
+* [计算机初级解读](https://www.zhihu.com/question/27470113/answer/69680149)
+* [计算机书籍索引](https://www.zhihu.com/question/459130825/answer/2670304502)
 
 
 ## 数据库
