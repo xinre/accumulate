@@ -317,6 +317,7 @@
 ## 什么是计算机计算机是怎样工作的
 * [计算机初级解读](https://www.zhihu.com/question/27470113/answer/69680149)
 * [计算机书籍索引](https://www.zhihu.com/question/459130825/answer/2670304502)
+* [计算机书籍推荐](https://www.zhihu.com/question/48076244)
 
 
 ## 数据库
