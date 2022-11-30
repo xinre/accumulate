@@ -314,6 +314,9 @@
 * [react-native autoLink](https://juejin.cn/post/6844903987796246536)
 * [Maven与Gradle的对比](https://zhuanlan.zhihu.com/p/21394120)
 
+## 什么是计算机计算机是怎样工作的
+* [初级解读](https://www.zhihu.com/question/27470113/answer/69680149)
+
 
 ## 数据库
 
