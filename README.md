@@ -192,6 +192,7 @@
 * [react 页面缓存](https://www.1024sou.com/article/18122.html)
 * [react 官网加载原理里面对比了ssr csr ssg](https://juejin.cn/post/7128369638794231839)
 * [React 18 并发机制](https://zhuanlan.zhihu.com/p/587588034)
+* [研究一下这两个拖拽组件的实现和封装原理](https://www.npmjs.com/package/react-sortable-hoc)
 
 # vue专题
 * [vue3和react-hooks](https://mp.weixin.qq.com/s/_AKjxHYRzplh5CmUXmmL8g)
