@@ -175,6 +175,8 @@
 * [node检测断网] (https://juejin.cn/post/6844903824558145543)
 * [compose函数] (https://juejin.cn/post/6989020415444123662#heading-2)
 * [compose函数方案](https://juejin.cn/post/6989815456416661534)
+* [defer和async的区别](https://segmentfault.com/q/1010000000640869)
+* [浅谈script标签的defer和async](https://segmentfault.com/a/1190000006778717)
 
 # react 专题
 * [React 全局状态管理器横向对比](https://www.tangshuang.net/7862.html)
