@@ -255,6 +255,7 @@
 * [好未来electron输出](https://www.yuque.com/ezg6c4/op375w/dzis0y)
 * [不连vpn安装electron](https://blog.csdn.net/weixin_43840341/article/details/119363108)
 * [electron 窗口池 webview 直接loadUrl替换链接， preload 暂时无法动态替换](https://juejin.cn/post/7134519311003025438)
+* [electron写的开源浏览器](https://github.com/wexond/browser-base)
 
 
 # rxjs整体学习
