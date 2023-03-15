@@ -178,7 +178,7 @@
 * [defer和async的区别](https://segmentfault.com/q/1010000000640869)
 * [浅谈script标签的defer和async](https://segmentfault.com/a/1190000006778717)
 * [打包后dist目录本地运行](https://juejin.cn/post/7026007570947309605)
-* [千万别让 console.log 上生产！用 Performance 和 Memory 告诉你为什么](https://juejin.cn/post/7185128318235541563)
+* [千万别让 console.log 上生产！用 Performance 和 Memory 告诉你为什么](https://juejin.cn/post/7185501830040944698)
 
 # react 专题
 * [React 全局状态管理器横向对比](https://www.tangshuang.net/7862.html)
