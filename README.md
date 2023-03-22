@@ -199,6 +199,7 @@
 * [研究一下这两个拖拽组件的实现和封装原理](https://www.npmjs.com/package/react-sortable-hoc)
 * [vue react 组件混用](https://juejin.cn/post/7083303237616402468)
 * [vue react 组件混用veaury方案 之后要研究这个是怎么实现的  重点](https://github.com/devilwjp/veaury)
+* [mobx初级使用](https://juejin.cn/post/7084581173233451021)
 
 # vue专题
 * [vue3和react-hooks](https://mp.weixin.qq.com/s/_AKjxHYRzplh5CmUXmmL8g)
