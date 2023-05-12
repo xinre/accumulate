@@ -67,6 +67,7 @@
 * [测试 webpack split 和 异步路由 打包拆分逻辑是否做到了首屏只加载少部分用到的打包后的js, 切换路由动态加载用到的js文件]
 * [electron webpack配置构建方案](https://github.com/sundial-dreams/electron-react-template)
 * [前端工程化之Babel](https://juejin.cn/post/7049904079060860942)
+* [零创建自己的NPM](https://juejin.cn/post/6844904030976606216)
 
 
 ## 优质算法 && lee
