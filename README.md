@@ -66,6 +66,7 @@
 * [webpack5更新 git blog](https://github.com/HolyZheng/holyZheng-blog/issues/48)
 * [测试 webpack split 和 异步路由 打包拆分逻辑是否做到了首屏只加载少部分用到的打包后的js, 切换路由动态加载用到的js文件]
 * [electron webpack配置构建方案](https://github.com/sundial-dreams/electron-react-template)
+* [前端工程化之Babel](https://juejin.cn/post/7049904079060860942)
 
 
 ## 优质算法 && lee
