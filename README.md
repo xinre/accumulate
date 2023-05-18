@@ -53,6 +53,7 @@
 * [最简化 VUE的响应式原理](https://zhuanlan.zhihu.com/p/88648401)
 * [详解Vue响应式原理](https://www.cnblogs.com/fundebug/p/responsive-vue.html)
 * 找时间看react-infinite-scroll-component原理这周用碰见坑了最好写一个自己的无限滚动这个不好用
+* vue router 守卫 看一下 next() 是怎样阻止路由跳转的
 
 ## webpack 、rollup 等前端打包工具
 * webpack打包
