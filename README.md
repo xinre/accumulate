@@ -188,6 +188,7 @@
 * [微前端single-spa原理解析 mini single-spa](https://juejin.cn/post/6941402712890638367)
 * [深入分析single-spa——导航事件与reroute](https://juejin.cn/post/6988825809830035487)
 * [微前端 qiankun 实践](https://juejin.cn/post/6875462470593904653)
+* [前端后台管理脚手架](https://github.com/panyushan-jade/react-template-admin)
 
 # react 专题
 * [React 全局状态管理器横向对比](https://www.tangshuang.net/7862.html)
