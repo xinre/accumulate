@@ -362,6 +362,7 @@
 * [Git 多台电脑共用SSH Key](https://blog.csdn.net/u012408797/article/details/116196831)
 * npm和yarn安装包区别
 * [git常用命令](https://mp.weixin.qq.com/s/Dmct6WKttIbe7gegrZTVSg)
+* [Git: submodule 子模块简明教程](https://zhuanlan.zhihu.com/p/404615843)
 
 ## 杂七杂八
 * [打不开github问题](https://blog.csdn.net/yuxikuo_1/article/details/107302871)
