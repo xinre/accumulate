@@ -190,6 +190,8 @@
 * [微前端 qiankun 实践](https://juejin.cn/post/6875462470593904653)
 * [微前端知识汇总](https://github.com/iuap-design/blog/issues/382)
 * [从零实现微前端代码和介绍](https://github.com/YataoZhang/my-single-spa)
+* [single-spa 的核心流程](https://juejin.cn/post/6981213641651519525)
+* [single-spa 的核心流程](https://juejin.cn/post/7131393515031887885)
 * [前端后台管理脚手架](https://github.com/panyushan-jade/react-template-admin)
 * [前端调试和sourcemap](https://juejin.cn/post/7158430758070140942)
 
