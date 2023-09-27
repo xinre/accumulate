@@ -74,6 +74,7 @@
 * [编译 ts 代码用 tsc 还是 babel](https://juejin.cn/post/7084882650233569317)
 * [简单聊聊webpack、rollup和vite](https://juejin.cn/post/7248878483329138746?searchId=202309270910425C7C5B790E1E0AA19B2D)
 * [带你了解更全面的 Monorepo - 优劣、踩坑、选型](https://juejin.cn/post/7215886869199896637)
+*[rollup打包ts+react最佳实践](https://cloud.tencent.com/developer/article/2162585?areaSource=&traceId=)
 
 
 ## 优质算法 && lee
