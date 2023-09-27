@@ -72,6 +72,7 @@
 * [rollup 打造自己的 npm 包](https://juejin.cn/post/6950557086916804645)
 * [ts npm 包 包含 echo 命令 这个尽量用ESlint](https://juejin.cn/post/6844903892119977998)
 * [编译 ts 代码用 tsc 还是 babel](https://juejin.cn/post/7084882650233569317)
+* [简单聊聊webpack、rollup和vite](https://juejin.cn/post/7248878483329138746?searchId=202309270910425C7C5B790E1E0AA19B2D)
 
 
 ## 优质算法 && lee
