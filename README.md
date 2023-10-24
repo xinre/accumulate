@@ -200,6 +200,7 @@
 * [single-spa 的核心流程](https://juejin.cn/post/7131393515031887885)
 * [前端后台管理脚手架](https://github.com/panyushan-jade/react-template-admin)
 * [前端调试和sourcemap](https://juejin.cn/post/7158430758070140942)
+* [推送数据？也许你不需要 WebSocket](https://zhuanlan.zhihu.com/p/660032935)
 
 # react 专题
 * [React 全局状态管理器横向对比](https://www.tangshuang.net/7862.html)
