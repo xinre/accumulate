@@ -353,6 +353,7 @@
 * [计算机初级解读](https://www.zhihu.com/question/27470113/answer/69680149)
 * [计算机书籍索引](https://www.zhihu.com/question/459130825/answer/2670304502)
 * [计算机书籍推荐](https://www.zhihu.com/question/48076244)
+* [学习操作系统知识，这篇两万字的文章基本够了](https://juejin.cn/post/7287020579831463970)
 
 
 ## 数据库
