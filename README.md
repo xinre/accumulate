@@ -94,7 +94,9 @@
 * [docker原理](https://zhuanlan.zhihu.com/p/519499603)
 * [docker使用](https://www.ruanyifeng.com/blog/2018/02/docker-tutorial.html)
 * [docker入门到实践] (https://yeasy.gitbook.io/docker_practice/)
+* [Docker简单实战](https://juejin.cn/post/6844903946234904583?searchId=20231031152553A6C0CE510312B4A3F6BB)
 * [前端和后端微服务知识]()
+
 
 ## 前端知识
 * [redux、mobx、concent特性大比拼](https://segmentfault.com/a/1190000022332809)
