@@ -197,6 +197,7 @@
 * [微前端single-spa原理解析 mini single-spa](https://juejin.cn/post/6941402712890638367)
 * [深入分析single-spa——导航事件与reroute](https://juejin.cn/post/6988825809830035487)
 * [微前端 qiankun 实践](https://juejin.cn/post/6875462470593904653)
+* [qiankun Uncaught TypeError: application 'goal-admin' died in status LOADING_SOURCE_CODE: Failed to fetch](如果不是webpack中没有设置跨域那就是script标签引入的文件跨域加载失败了)
 * [微前端知识汇总](https://github.com/iuap-design/blog/issues/382)
 * [从零实现微前端代码和介绍](https://github.com/YataoZhang/my-single-spa)
 * [single-spa 的核心流程](https://juejin.cn/post/6981213641651519525)
