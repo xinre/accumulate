@@ -207,6 +207,7 @@
 * [推送数据？也许你不需要 WebSocket](https://zhuanlan.zhihu.com/p/660032935)
 * [TS 泛型](https://juejin.cn/post/7087878411628544008)
 * [微前端qiankun样式问题总结](https://juejin.cn/post/7184419253087535165?searchId=202312210937532CE114907800DBBD0D54)
+* [前端性能优化和webpack优化汇总](https://juejin.cn/post/7341267497428025344)
 
 # react 专题
 * [React 全局状态管理器横向对比](https://www.tangshuang.net/7862.html)
