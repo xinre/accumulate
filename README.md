@@ -294,6 +294,7 @@
 * [fast-vite-nestjs-electron nest构建的electron](https://github.com/ArcherGu/fast-vite-nestjs-electron)
 * [新QQ桌面版为何选择Electron作为跨端框架](https://juejin.cn/post/7271075719366656034)
 * [全面解密新QQ桌面版的Electron内存优化实践](http://www.52im.net/thread-4429-1-1.html)
+* [electron 经验包括性能检测更新什么的](https://juejin.cn/post/7399100662610395147)
 
 
 # rxjs整体学习
