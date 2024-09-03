@@ -268,6 +268,7 @@
 * [掘金一个讲webpack和微前端好的blog](https://juejin.cn/user/624178336634701/posts)
 * [&这个讲工程化和框架原理很细很全有时间重点看看&](https://juejin.cn/user/2594503172831208/posts)
 * [jujin发文章的开发者 主要内容 sentry原理 微前端vite 和 webpack等打包的讲解](https://juejin.cn/user/624178336634701/posts)
+* [一个前端创业者总结的知识](https://www.yuque.com/xiumubai/doc/ef90lcg65t34amdt)
 
 # electron 专题
 * [electron+rust方案](https://www.ancii.com/abtd0avbx/)
