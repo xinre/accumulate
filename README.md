@@ -241,7 +241,7 @@
 * [mini-vue 项目](https://github.com/cuixiaorui/mini-vue)
 * [vue3 相关](https://www.zhihu.com/column/c_1338557711341277185)
 * [mini vue](https://juejin.cn/post/6911897255087702030)
-* [juejin 上的小册中的git](https://github.com/answershuto/learnVue)
+* [juejin 上的vue小册中的git](https://github.com/answershuto/learnVue)
 
 
 # 编辑器 专题
