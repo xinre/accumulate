@@ -386,6 +386,7 @@
 * [输入sql发生了什么](https://mp.weixin.qq.com/s/plJk753HBfjlloEvQdR53A)
 
 ## 终端
+* [从零到一部署指南](https://juejin.cn/post/7452197534352031770)
 
 ## git npm yarn
 
