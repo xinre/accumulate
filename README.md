@@ -216,6 +216,7 @@
 * [grid 网格全部指南](https://ruanyifeng.com/blog/2019/03/grid-layout-tutorial.html)
 * [前端工程化发展vitewebpack esbuild](https://juejin.cn/post/7457908450615246858)
 * [前端用户端检测代码版本更新](https://juejin.cn/post/7489755022655291432)
+* [性能优化汇总](https://juejin.cn/post/7538276577605468206)
 
 # react 专题
 * [React 全局状态管理器横向对比](https://www.tangshuang.net/7862.html)
