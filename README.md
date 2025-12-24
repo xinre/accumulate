@@ -2,7 +2,7 @@
 
 ## 面试积累
 * [ai 起步](https://zhuanlan.zhihu.com/p/1984406467051267260)
-* [ai agent实践](https://mp.weixin.qq.com/s/ycv50L8GALZz3ea_P2GHzg)
+* [ai agent](https://www.zhihu.com/question/1928852201641579992/answer/1981109859006047170)
 
 ## 面试积累
 * [http相关](https://zhuanlan.zhihu.com/p/73409439)
