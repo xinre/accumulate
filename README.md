@@ -1,8 +1,9 @@
 # Accumulate
 
-## 面试积累
+## AI专题
 * [ai 起步](https://zhuanlan.zhihu.com/p/1984406467051267260)
 * [ai agent](https://www.zhihu.com/question/1928852201641579992/answer/1981109859006047170)
+* [ai 整体学习](https://waytoagi.feishu.cn/wiki/QPe5w5g7UisbEkkow8XcDmOpn8e)
 
 ## 面试积累
 * [http相关](https://zhuanlan.zhihu.com/p/73409439)
